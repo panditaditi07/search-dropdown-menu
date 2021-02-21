@@ -16,7 +16,6 @@ class DropDown extends Component {
   state = {
     resultList: [],
     OptionList: [],
-
     showList: false,
     selectAll: false,
     hideList: false,
@@ -134,7 +133,7 @@ class DropDown extends Component {
       !event.currentTarget.contains(event.relatedTarget)
     ) {
       this.toggle();
-      console.log("Running hdelsu");
+
       this.setState({ hideList: !this.state.hideList });
     }
 
@@ -175,22 +174,19 @@ class DropDown extends Component {
   DropDownToggle = () => {
     const { OptionList, resultList, hideList, showList } = this.state;
     this.toggle();
-    console.log(showList === false);
+
     if (
       (hideList === true || hideList === false) &&
       OptionList.length &&
       showList === false
     ) {
       this.setState({ showList: false });
-
-      console.log("Running 1");
     } else if (
       (hideList === false || hideList === true) &&
       OptionList.length &&
       showList === true
     ) {
       this.setState({ showList: true });
-      console.log("Running 1");
     } else if (hideList === false && OptionList.length && resultList.length) {
       this.setState({ showList: true });
     }
