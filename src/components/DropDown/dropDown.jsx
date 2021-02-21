@@ -134,7 +134,7 @@ class DropDown extends Component {
       !event.currentTarget.contains(event.relatedTarget)
     ) {
       this.toggle();
-
+      console.log("Running hdelsu");
       this.setState({ hideList: !this.state.hideList });
     }
 
@@ -179,11 +179,14 @@ class DropDown extends Component {
     } else if (this.state.hideList === true) {
       if (OptionList.length--) {
         this.setState({ showList: false });
+        console.log("Running");
       } else {
         this.toggle();
+        console.log("Running else part");
       }
     } else if (this.state.hideList === false && OptionList.length) {
       this.setState({ showList: true });
+      console.log("Running 2 ");
     } else if (
       this.state.hideList === false &&
       OptionList.length &&
