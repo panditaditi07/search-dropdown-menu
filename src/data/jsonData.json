@@ -1,0 +1,3039 @@
+[
+  {
+    "name": "2fa saml issue",
+    "logo": {
+      "uid": "blt1cbf0a2fbd3103e9",
+      "created_at": "2021-01-15T09:51:13.158Z",
+      "updated_at": "2021-01-15T09:51:13.158Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "186981",
+      "tags": [],
+      "app_user_object_uid": "blt7506d2145bfe9d3b",
+      "filename": "screencapture-dev-nba-opin-media-dashboard-partner-blt46cf90e511a64e06-config-blt30eb492019d89535-settings-2021-01-15-15_09_23.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/bltf0b2febb2a469480/uploads/600165915ba878015bb19d6c/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "",
+    "uid": "bltf0b2febb2a469480",
+    "partner_configurations": [
+      {
+        "name_id": "2fa",
+        "published": false,
+        "partner_uid": "bltf0b2febb2a469480",
+        "uid": "blt6548f0c8ac9bbed7"
+      }
+    ]
+  },
+  {
+    "name": "TestQA 1",
+    "logo": {
+      "uid": "blt305531811b958f0d",
+      "created_at": "2021-01-11T06:02:19.398Z",
+      "updated_at": "2021-01-11T06:02:19.398Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "181843",
+      "tags": [],
+      "app_user_object_uid": "bltaab30f07699fab20",
+      "filename": "cloudVerifiedService_ums_5f8ec680a19edd51ce54cf86_1 (2).png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt1cdc06bc815d176f/uploads/5ffbe9eb2a19b00f7794e7c7/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "Test QA description",
+    "uid": "blt1cdc06bc815d176f",
+    "partner_configurations": [
+      {
+        "name_id": "test qa config",
+        "published": false,
+        "partner_uid": "blt1cdc06bc815d176f",
+        "uid": "blt44caf53f7d29a1bb"
+      }
+    ]
+  },
+  {
+    "name": "ASDFG",
+    "logo": {
+      "uid": "blt555c313083d6bc4f",
+      "created_at": "2020-12-15T10:25:41.232Z",
+      "updated_at": "2020-12-15T10:25:41.232Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "196165",
+      "tags": [],
+      "app_user_object_uid": "blt7506d2145bfe9d3b",
+      "filename": "screencapture-raweng-atlassian-net-secure-Dashboard-jspa-2020-12-04-20_48_30.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt220a8c5bee83f54d/uploads/5fd88f2572af074da80e82e7/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "ASDFGbmbmnbmn",
+    "uid": "blt220a8c5bee83f54d",
+    "partner_configurations": [
+      {
+        "name_id": "qdwfegrht",
+        "published": false,
+        "partner_uid": "blt220a8c5bee83f54d",
+        "uid": "blt66d73a48a55353a5"
+      },
+      {
+        "name_id": "khlgkjh",
+        "published": false,
+        "partner_uid": "blt220a8c5bee83f54d",
+        "uid": "blta365062331a4dfc5"
+      },
+      {
+        "name_id": "ASDEFRGTHG",
+        "published": false,
+        "partner_uid": "blt220a8c5bee83f54d",
+        "uid": "blt9c9b22aa7244f88b"
+      },
+      {
+        "name_id": "waesgrdthfh",
+        "published": false,
+        "partner_uid": "blt220a8c5bee83f54d",
+        "uid": "blt5f5a7014b7dc525a"
+      },
+      {
+        "name_id": "sedrtyguijk",
+        "published": false,
+        "partner_uid": "blt220a8c5bee83f54d",
+        "uid": "blt5d8643935bed1301"
+      },
+      {
+        "name_id": "fcgvhbjnkml;",
+        "published": false,
+        "partner_uid": "blt220a8c5bee83f54d",
+        "uid": "blt3a0230baa7373f2c"
+      }
+    ]
+  },
+  {
+    "name": "BannerOnly",
+    "logo": {
+      "uid": "blte49dc53e17b869ee",
+      "created_at": "2019-10-11T05:27:36.660Z",
+      "updated_at": "2019-10-11T05:27:36.660Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "32026",
+      "tags": [],
+      "app_user_object_uid": "blt03de00f7f1bcd5d4",
+      "filename": "logo-placeholder.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt2a056850f50bb24a/uploads/5da012c80c67411c6896fcc6/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "BannerOnclyascs44   42434 324234324 32423423432 .     324342",
+    "uid": "blt2a056850f50bb24a",
+    "partner_configurations": [
+      {
+        "name_id": "banneronly",
+        "published": true,
+        "partner_uid": "blt2a056850f50bb24a",
+        "uid": "bltc7531bd5d2b76835"
+      }
+    ]
+  },
+  {
+    "name": "Ghanshyam",
+    "logo": {
+      "uid": "bltd343368fdc4dbdba",
+      "created_at": "2020-03-21T05:22:39.149Z",
+      "updated_at": "2020-03-21T05:22:39.149Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/jpeg",
+      "file_size": "1516",
+      "tags": [],
+      "app_user_object_uid": "blt252379eef176d030",
+      "filename": "148x148,2.jpg",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt81c495c2ffad5c15/uploads/5e75a49f05eb457af62f740c/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "Viewing all functionality",
+    "uid": "blt81c495c2ffad5c15",
+    "partner_configurations": [
+      {
+        "name_id": "GhanshyamSD",
+        "published": false,
+        "partner_uid": "blt81c495c2ffad5c15",
+        "uid": "bltab407093aa43ef76"
+      }
+    ]
+  },
+  {
+    "name": "test-partner",
+    "logo": {
+      "uid": "blta3b8d6c51c4e960f",
+      "created_at": "2020-08-04T15:55:29.304Z",
+      "updated_at": "2020-08-04T15:55:29.304Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "4183",
+      "tags": [],
+      "app_user_object_uid": "bltf11e0ccee05908ce",
+      "filename": "Screenshot 2020-07-09 at 5.33.28 PM.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt821654167b35c79d/uploads/5f2984f1f064bd6aa6cd97f4/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "",
+    "uid": "blt821654167b35c79d",
+    "partner_configurations": [
+      {
+        "name_id": "test-partner-config",
+        "published": false,
+        "partner_uid": "blt821654167b35c79d",
+        "uid": "blt0c9ed5709a7c737b"
+      }
+    ]
+  },
+  {
+    "name": "Movistar Prod",
+    "logo": {
+      "uid": "blta2edbc7ba9ac960f",
+      "created_at": "2018-10-08T06:03:08.873Z",
+      "updated_at": "2018-10-08T06:03:08.873Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "30458",
+      "tags": [],
+      "app_user_object_uid": null,
+      "filename": "movistar_prod.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt9d0cff8af9df4c06/uploads/5bbaf31c35d8d59e1858b600/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "movistar partner",
+    "uid": "blt9d0cff8af9df4c06",
+    "partner_configurations": [
+      {
+        "partner_uid": "blt9d0cff8af9df4c06",
+        "published": true,
+        "uid": "blt93e343d2f402c374",
+        "name_id": "movistar_zrh"
+      }
+    ]
+  },
+  {
+    "name": "talib test",
+    "logo": {
+      "uid": "bltda2c3dcf59969d1c",
+      "created_at": "2020-01-24T09:12:03.851Z",
+      "updated_at": "2020-01-24T09:12:03.851Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "349125",
+      "tags": [],
+      "app_user_object_uid": "blt78d242e4901e9b73",
+      "filename": "Screenshot from 2020-01-08 16-22-43.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/bltf6e2a6f818bd00fc/uploads/5e2ab4e36863a57d4f49ee1c/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "neww",
+    "uid": "bltf6e2a6f818bd00fc",
+    "partner_configurations": [
+      {
+        "name_id": "talib_saml",
+        "published": false,
+        "partner_uid": "bltf6e2a6f818bd00fc",
+        "uid": "blt3537a809b2b92464"
+      },
+      {
+        "name_id": "bammeronly",
+        "published": false,
+        "partner_uid": "bltf6e2a6f818bd00fc",
+        "uid": "blt9f94e23b0ba34f24"
+      },
+      {
+        "name_id": "networkonly",
+        "published": false,
+        "partner_uid": "bltf6e2a6f818bd00fc",
+        "uid": "blte57e7264085797c0"
+      },
+      {
+        "name_id": "fdfe",
+        "published": false,
+        "partner_uid": "bltf6e2a6f818bd00fc",
+        "uid": "bltaaeef2daf0834824"
+      },
+      {
+        "name_id": "geofence",
+        "published": false,
+        "partner_uid": "bltf6e2a6f818bd00fc",
+        "uid": "blte7c7a5469ea6c7c9"
+      }
+    ]
+  },
+  {
+    "name": "MOCK Traditional Login Partner",
+    "logo": {
+      "uid": "blt999162f5da514399",
+      "created_at": "2019-09-17T11:17:47.504Z",
+      "updated_at": "2019-09-17T11:17:47.504Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/jpeg",
+      "file_size": "12553",
+      "tags": [],
+      "app_user_object_uid": "blt60b03827527ee8e3",
+      "filename": "blt82644fe37b790764-blta6d90a85f6f9d72d-cjBVcCJG_400x400.jpg",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt1c7d372eade524ca/uploads/5d80c0db4aa8ae568ec828ed/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "MOCK Traditional Login Partner made for internal testing the default traditional login Partner.",
+    "uid": "blt1c7d372eade524ca",
+    "partner_configurations": [
+      {
+        "partner_uid": "blt1c7d372eade524ca",
+        "name_id": "traditional_partner",
+        "published": true,
+        "uid": "bltb788321f58b15326"
+      },
+      {
+        "name_id": "fasdfas",
+        "published": false,
+        "partner_uid": "blt1c7d372eade524ca",
+        "uid": "bltd4e7accd60a3d879"
+      }
+    ]
+  },
+  {
+    "name": "test1",
+    "logo": {
+      "uid": "blt53e8a890aa58d434",
+      "created_at": "2020-10-26T08:49:07.067Z",
+      "updated_at": "2020-10-26T08:49:07.067Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/jpeg",
+      "file_size": "24483",
+      "tags": [],
+      "app_user_object_uid": "blt81d51536784ecf83",
+      "filename": "NBA-logo.jpg",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blte0913474a65b1293/uploads/5f968d8399689f0e2a30271e/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "",
+    "uid": "blte0913474a65b1293",
+    "partner_configurations": [
+      {
+        "name_id": "test12",
+        "published": false,
+        "partner_uid": "blte0913474a65b1293",
+        "uid": "blt8355f85a5118636c"
+      }
+    ]
+  },
+  {
+    "name": "test0001",
+    "logo": {
+      "uid": "blt4bf3baabda4e45aa",
+      "created_at": "2020-04-07T06:53:26.938Z",
+      "updated_at": "2020-04-07T06:53:26.938Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "32026",
+      "tags": [],
+      "app_user_object_uid": "blt03de00f7f1bcd5d4",
+      "filename": "logo-placeholder.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt4a38817357ec15a0/uploads/5e8c23669c59e26a7aef1cee/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "test0001",
+    "uid": "blt4a38817357ec15a0",
+    "partner_configurations": [
+      {
+        "name_id": "ghjkl",
+        "published": false,
+        "partner_uid": "blt4a38817357ec15a0",
+        "uid": "bltd5883df0c4c0e9d7"
+      }
+    ]
+  },
+  {
+    "name": "Docomo",
+    "logo": {
+      "uid": "blt236d7e80397ca7f0",
+      "created_at": "2019-10-17T10:39:18.558Z",
+      "updated_at": "2019-10-17T10:39:18.558Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "6218",
+      "tags": [],
+      "app_user_object_uid": "blt03de00f7f1bcd5d4",
+      "filename": "PLAY-logo-main.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt081248b75938ba0b/uploads/5da844d6bc09e233ecf0167c/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "Docomo.",
+    "uid": "blt081248b75938ba0b",
+    "partner_configurations": [
+      {
+        "name_id": "docomo",
+        "published": true,
+        "partner_uid": "blt081248b75938ba0b",
+        "uid": "blt44c98a8e05a1cef9"
+      }
+    ]
+  },
+  {
+    "name": "AIS Mock",
+    "logo": {
+      "uid": "blt7a4e54c45c000c07",
+      "created_at": "2017-10-19T21:06:53.084Z",
+      "updated_at": "2017-10-19T21:06:53.084Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "5604",
+      "tags": [],
+      "app_user_object_uid": "blt2f888c88e54a93a5",
+      "filename": "ais-logo-300x100 (1).png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt9921f2396b25f461/uploads/59e913eddec8f6a320b388ff/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "",
+    "uid": "blt9921f2396b25f461",
+    "partner_configurations": [
+      {
+        "partner_uid": "blt9921f2396b25f461",
+        "published": true,
+        "uid": "blt0cd20d06bffc3625",
+        "name_id": "ais_rmk"
+      }
+    ]
+  },
+  {
+    "name": "Geo fence based partner",
+    "logo": {
+      "uid": "blt77ff98f44f220bed",
+      "created_at": "2020-08-11T10:32:35.448Z",
+      "updated_at": "2020-08-11T10:32:35.448Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/jpeg",
+      "file_size": "7891",
+      "tags": [],
+      "app_user_object_uid": "blt60b03827527ee8e3",
+      "filename": "geofence.jpeg",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt89118aa0c6126452/uploads/5f3273c30e13172c227cc937/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "Geo fence based partner",
+    "uid": "blt89118aa0c6126452",
+    "partner_configurations": [
+      {
+        "name_id": "geo_fence_based",
+        "published": true,
+        "partner_uid": "blt89118aa0c6126452",
+        "uid": "blt42c39b3e25b83e91"
+      }
+    ]
+  },
+  {
+    "name": "On Network Only",
+    "logo": {
+      "uid": "blt093d53f6416b3f52",
+      "created_at": "2020-05-12T11:28:23.833Z",
+      "updated_at": "2020-05-12T11:28:23.833Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/jpeg",
+      "file_size": "46647",
+      "tags": [],
+      "app_user_object_uid": "bltaef247f7088fbe75",
+      "filename": "101ffacebook-logo1.jpg",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/bltf6f104a3ad3b7741/uploads/5eba885712baa0188d084b85/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "On Network Only",
+    "uid": "bltf6f104a3ad3b7741",
+    "partner_configurations": [
+      {
+        "name_id": "on_network_smita",
+        "published": true,
+        "partner_uid": "bltf6f104a3ad3b7741",
+        "uid": "blta08e156d94e12682"
+      }
+    ]
+  },
+  {
+    "name": "Telekom Croatia03",
+    "logo": {
+      "uid": "blt22ba5b7f7b70c186",
+      "created_at": "2020-02-03T06:54:53.118Z",
+      "updated_at": "2020-02-03T06:54:53.118Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "2985",
+      "tags": [],
+      "app_user_object_uid": "blt03de00f7f1bcd5d4",
+      "filename": "blt83a56398692bbcbe-t-logo.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt739f48ff32714c94/uploads/5e37c3bd461f724d4319a0ef/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "Telekom Croatia",
+    "uid": "blt739f48ff32714c94",
+    "partner_configurations": [
+      {
+        "name_id": "telekomcroatia03",
+        "published": false,
+        "partner_uid": "blt739f48ff32714c94",
+        "uid": "blt52cd3b2de78cb684"
+      }
+    ]
+  },
+  {
+    "name": "Telekom Croatia02",
+    "logo": {
+      "uid": "blt18ef87d93333b781",
+      "created_at": "2020-01-28T08:12:15.253Z",
+      "updated_at": "2020-01-28T08:12:15.253Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "2985",
+      "tags": [],
+      "app_user_object_uid": "blt03de00f7f1bcd5d4",
+      "filename": "bltcd23083f3e9ad48b-blt82a3e5039ab27e67-t-logo.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/bltd5f03306db390282/uploads/5e2fecdf8993112d3e21c6d5/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "Telekom Croatia",
+    "uid": "bltd5f03306db390282",
+    "partner_configurations": [
+      {
+        "name_id": "telekomcroatia02",
+        "published": false,
+        "partner_uid": "bltd5f03306db390282",
+        "uid": "bltf3a066d3af03bc7b"
+      }
+    ]
+  },
+  {
+    "name": "TESTAPI",
+    "logo": {
+      "uid": "blt144ee2fa66e2cca0",
+      "created_at": "2019-10-22T10:20:58.129Z",
+      "updated_at": "2019-10-22T10:20:58.129Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "32026",
+      "tags": [],
+      "app_user_object_uid": "blt03de00f7f1bcd5d4",
+      "filename": "logo-placeholder.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt06600d3b8d29d8da/uploads/5daed80ad460d95dd0a802ee/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "TESTAPI",
+    "uid": "blt06600d3b8d29d8da",
+    "partner_configurations": [
+      {
+        "name_id": "testapi",
+        "published": false,
+        "partner_uid": "blt06600d3b8d29d8da",
+        "uid": "bltfc0a9fd2a3804fcc"
+      },
+      {
+        "name_id": "docomo1",
+        "published": true,
+        "partner_uid": "blt06600d3b8d29d8da",
+        "uid": "bltb33c308259841d6f"
+      }
+    ]
+  },
+  {
+    "name": "SmitaTest",
+    "logo": {
+      "uid": "bltf722437e11e9e7df",
+      "created_at": "2019-09-11T09:30:27.000Z",
+      "updated_at": "2019-09-11T09:30:27.000Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "5249",
+      "tags": [],
+      "app_user_object_uid": "bltaef247f7088fbe75",
+      "filename": "download.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/bltd21c7b4a6466ca41/uploads/5d78beb3527a0176155f695c/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "SmitaTest12123387c",
+    "uid": "bltd21c7b4a6466ca41",
+    "partner_configurations": [
+      {
+        "name_id": "smitaTest",
+        "published": true,
+        "partner_uid": "bltd21c7b4a6466ca41",
+        "uid": "blt85b39410d065a2fa"
+      },
+      {
+        "name_id": "`12`1313",
+        "published": false,
+        "partner_uid": "bltd21c7b4a6466ca41",
+        "uid": "bltfece1d94f137029e"
+      },
+      {
+        "name_id": "teffgj",
+        "published": false,
+        "partner_uid": "bltd21c7b4a6466ca41",
+        "uid": "bltdb30da76cf8931b1"
+      },
+      {
+        "partner_uid": "bltd21c7b4a6466ca41",
+        "name_id": "3123123",
+        "published": false,
+        "uid": "bltf8d92349365d295c"
+      },
+      {
+        "name_id": "OnNetwork",
+        "published": false,
+        "partner_uid": "bltd21c7b4a6466ca41",
+        "uid": "blt4d0bea6d3a7963ef"
+      }
+    ]
+  },
+  {
+    "name": "AlticeOld",
+    "logo": {
+      "uid": "blt501d7373ae6657bb",
+      "created_at": "2019-09-04T08:51:26.165Z",
+      "updated_at": "2019-09-04T08:51:26.165Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/jpeg",
+      "file_size": "29167",
+      "tags": [],
+      "app_user_object_uid": "blt60b03827527ee8e3",
+      "filename": "blted3c80385d4bb497-altice.jpg",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt4664c1f359ab08e9/uploads/5d6f7b0e235e1824a7194229/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "altice",
+    "uid": "blt4664c1f359ab08e9",
+    "partner_configurations": [
+      {
+        "partner_uid": "blt4664c1f359ab08e9",
+        "published": false,
+        "name_id": "altice",
+        "uid": "blt0fdcd5baba8475b6"
+      }
+    ]
+  },
+  {
+    "name": "AIS Prod",
+    "logo": {
+      "uid": "blt7bc49ae4da84fb9f",
+      "created_at": "2019-08-30T06:34:52.257Z",
+      "updated_at": "2019-08-30T06:34:52.257Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "5604",
+      "tags": [],
+      "app_user_object_uid": "blt60b03827527ee8e3",
+      "filename": "blte26a83855861f919-ais-logo-300x100.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/bltb3566206443e6c66/uploads/5d68c38cb050992793fb06f1/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "AIS Prod",
+    "uid": "bltb3566206443e6c66",
+    "partner_configurations": [
+      {
+        "partner_uid": "bltb3566206443e6c66",
+        "published": true,
+        "name_id": "ais_pqw",
+        "uid": "blt8f03113952a08362"
+      }
+    ]
+  },
+  {
+    "name": "Telenor Montenegro (Prod)",
+    "logo": {
+      "uid": "blt3cd3f5ce088bc756",
+      "created_at": "2019-03-08T07:23:23.854Z",
+      "updated_at": "2019-03-08T07:23:23.854Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/jpeg",
+      "file_size": "4756",
+      "tags": [],
+      "app_user_object_uid": null,
+      "filename": "tenelor.jpeg",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/bltedfd6f97950e6aeb/uploads/5c82186b6bb1c22c37713e32/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "Telenor partner operating in Montenegro",
+    "uid": "bltedfd6f97950e6aeb",
+    "partner_configurations": [
+      {
+        "partner_uid": "bltedfd6f97950e6aeb",
+        "published": true,
+        "uid": "blt1e524291a50ccd9d",
+        "name_id": "telenorm_rsq"
+      }
+    ]
+  },
+  {
+    "name": "TTL Partner",
+    "logo": {
+      "uid": "blt5fb3141f87e0178d",
+      "created_at": "2020-09-17T05:47:17.759Z",
+      "updated_at": "2020-09-17T05:47:17.759Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "371975",
+      "tags": [],
+      "app_user_object_uid": "blt7506d2145bfe9d3b",
+      "filename": "sign-in-bg (1).png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt930f325f8e674e0e/uploads/5f62f865000dc20df29e925a/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "TTL Partner",
+    "uid": "blt930f325f8e674e0e",
+    "partner_configurations": [
+      {
+        "name_id": "TTL",
+        "published": false,
+        "partner_uid": "blt930f325f8e674e0e",
+        "uid": "blt6371a85b9e7e28f1"
+      }
+    ]
+  },
+  {
+    "name": "geo",
+    "logo": {
+      "uid": "bltad2bd4b0e6cd434a",
+      "created_at": "2020-08-13T13:03:08.458Z",
+      "updated_at": "2020-08-13T13:03:08.458Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/jpeg",
+      "file_size": "7891",
+      "tags": [],
+      "app_user_object_uid": "blt60b03827527ee8e3",
+      "filename": "geofence.jpeg",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt1b51eeb2e1fd879f/uploads/5f353a0c7c88c20ceccf6330/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "geo",
+    "uid": "blt1b51eeb2e1fd879f",
+    "partner_configurations": [
+      {
+        "name_id": "geo",
+        "published": false,
+        "partner_uid": "blt1b51eeb2e1fd879f",
+        "uid": "bltf638973388f52455"
+      }
+    ]
+  },
+  {
+    "name": "slack-channel",
+    "logo": {
+      "uid": "blt155c9545728ba021",
+      "created_at": "2020-05-26T09:24:54.540Z",
+      "updated_at": "2020-05-26T09:24:54.540Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "33761",
+      "tags": [],
+      "app_user_object_uid": "bltaef247f7088fbe75",
+      "filename": "1f389.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt62a794a4f816f3bf/uploads/5ecce06648ff64236d2bc05d/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "slack-channel12",
+    "uid": "blt62a794a4f816f3bf",
+    "partner_configurations": [
+      {
+        "name_id": "smita_slack",
+        "published": false,
+        "partner_uid": "blt62a794a4f816f3bf",
+        "uid": "blte3e7b03700ca1f81"
+      }
+    ]
+  },
+  {
+    "name": "[Testing] MOCK OAuth Partner",
+    "logo": {
+      "uid": "blt59821c8c3d34db32",
+      "created_at": "2020-12-09T17:49:16.507Z",
+      "updated_at": "2020-12-09T17:49:16.507Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "20203",
+      "tags": [],
+      "app_user_object_uid": "bltf11e0ccee05908ce",
+      "filename": "nba-logo-login.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt838ae3c0a5ae1f5e/uploads/5fd10e1c7ef7d268e6f6d57c/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "MOCK OAuth Partner..",
+    "uid": "blt838ae3c0a5ae1f5e",
+    "partner_configurations": [
+      {
+        "name_id": "session_based_oauth",
+        "published": true,
+        "partner_uid": "blt838ae3c0a5ae1f5e",
+        "uid": "bltf33b489f267722db"
+      },
+      {
+        "partner_uid": "blt838ae3c0a5ae1f5e",
+        "name_id": "oauth_testing",
+        "published": true,
+        "uid": "blt939eccd098f6b108"
+      },
+      {
+        "name_id": "error_oauth_testing",
+        "published": true,
+        "partner_uid": "blt838ae3c0a5ae1f5e",
+        "uid": "bltfcdd87844cff29f8"
+      },
+      {
+        "name_id": "saml_testing",
+        "published": false,
+        "partner_uid": "blt838ae3c0a5ae1f5e",
+        "uid": "blt8c48e488ed467478"
+      }
+    ]
+  },
+  {
+    "name": "Test01",
+    "logo": {
+      "uid": "bltf37b19075c41d7de",
+      "created_at": "2019-11-13T12:27:27.569Z",
+      "updated_at": "2019-11-13T12:27:27.569Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "32026",
+      "tags": [],
+      "app_user_object_uid": "blt03de00f7f1bcd5d4",
+      "filename": "logo-placeholder.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt0438045f9a9053ae/uploads/5dcbf6af950e122d269cfd04/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "Test01",
+    "uid": "blt0438045f9a9053ae",
+    "partner_configurations": [
+      {
+        "name_id": "Test01",
+        "published": false,
+        "partner_uid": "blt0438045f9a9053ae",
+        "uid": "blt00c06fa209f485bd"
+      }
+    ]
+  },
+  {
+    "name": "MOCK SAML Login Partner",
+    "logo": {
+      "uid": "bltbc30819118155075",
+      "created_at": "2019-09-17T05:48:52.541Z",
+      "updated_at": "2019-09-17T05:48:52.541Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/jpeg",
+      "file_size": "12553",
+      "tags": [],
+      "app_user_object_uid": "blt60b03827527ee8e3",
+      "filename": "cjBVcCJG_400x400.jpg",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt44a7c51e0379a4bb/uploads/5d8073c41aa9dd4e8ca16fe0/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "MOCK SAML Login Partner.",
+    "uid": "blt44a7c51e0379a4bb",
+    "partner_configurations": [
+      {
+        "partner_uid": "blt44a7c51e0379a4bb",
+        "name_id": "saml",
+        "published": true,
+        "uid": "bltccc4572d5f610632"
+      }
+    ]
+  },
+  {
+    "name": "Telekom Serbia",
+    "logo": {
+      "uid": "blt2c09610b95889a4a",
+      "created_at": "2019-09-06T07:50:25.473Z",
+      "updated_at": "2019-09-06T07:50:25.473Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "4449",
+      "tags": [],
+      "app_user_object_uid": null,
+      "filename": "mts-300x100.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt81097cde52c8de0c/uploads/5d720fc1069542554113d88b/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "Telekom Serbia",
+    "uid": "blt81097cde52c8de0c",
+    "partner_configurations": [
+      {
+        "partner_uid": "blt81097cde52c8de0c",
+        "name_id": "telekomserbia",
+        "published": true,
+        "uid": "blt9e1902f31109ada3"
+      }
+    ]
+  },
+  {
+    "name": "Telenor Stag",
+    "logo": {
+      "uid": "blt116e5cae09654d24",
+      "created_at": "2018-08-17T12:35:57.347Z",
+      "updated_at": "2018-08-17T12:35:57.347Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/jpeg",
+      "file_size": "4756",
+      "tags": [],
+      "app_user_object_uid": "blt60b03827527ee8e3",
+      "filename": "tenelor.jpeg",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt88fae9df0d6c887a/uploads/5b76c12d7c07b8215a30c739/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "Tenelor Stag",
+    "uid": "blt88fae9df0d6c887a",
+    "partner_configurations": [
+      {
+        "partner_uid": "blt88fae9df0d6c887a",
+        "published": true,
+        "uid": "bltd8919f20a35692a8",
+        "name_id": "telenor_hgl"
+      }
+    ]
+  },
+  {
+    "name": "VIVO Dummy",
+    "logo": {
+      "uid": "blt09bfe10f790771bd",
+      "created_at": "2017-11-28T10:37:34.952Z",
+      "updated_at": "2017-11-28T10:37:34.952Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "39144",
+      "tags": [],
+      "app_user_object_uid": "blt2f888c88e54a93a5",
+      "filename": "Vivo_mobile_logo.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt1b46dd7a6a19dfb5/uploads/5a1d3c6ee178e0d83db85609/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "",
+    "uid": "blt1b46dd7a6a19dfb5",
+    "partner_configurations": [
+      {
+        "partner_uid": "blt1b46dd7a6a19dfb5",
+        "published": true,
+        "uid": "bltfe681aec87298037",
+        "name_id": "vivo_nuo"
+      }
+    ]
+  },
+  {
+    "name": "SMART",
+    "logo": {
+      "uid": "blt09fbbddc3ae85bc5",
+      "created_at": "2018-08-13T13:47:04.984Z",
+      "updated_at": "2018-08-13T13:47:04.984Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "8102",
+      "tags": [],
+      "app_user_object_uid": "blt60b03827527ee8e3",
+      "filename": "smartmobilelogo.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/bltaa65739f67f49f04/uploads/5b718bd843c961ff4731015d/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "Points to SMART staging env",
+    "uid": "bltaa65739f67f49f04",
+    "partner_configurations": [
+      {
+        "partner_uid": "bltaa65739f67f49f04",
+        "published": false,
+        "uid": "bltb73f2f4e8f27eb41",
+        "name_id": "smart_stg"
+      },
+      {
+        "partner_uid": "bltaa65739f67f49f04",
+        "name_id": "smart_prd",
+        "published": true,
+        "uid": "blt5c25162b5be56039"
+      }
+    ]
+  },
+  {
+    "name": "32434",
+    "logo": {
+      "uid": "blt208e7490e061f301",
+      "created_at": "2020-10-28T12:47:40.837Z",
+      "updated_at": "2020-10-28T12:47:40.837Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "289867",
+      "tags": [],
+      "app_user_object_uid": "bltaef247f7088fbe75",
+      "filename": "Screenshot 2020-10-27 at 2.57.48 PM.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt605fe56998298b9c/uploads/5f99686c97958b0de77fe42b/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "324234234",
+    "uid": "blt605fe56998298b9c",
+    "partner_configurations": [
+      {
+        "name_id": "banneronlys",
+        "published": false,
+        "partner_uid": "blt605fe56998298b9c",
+        "uid": "blt320baeec84851d66"
+      },
+      {
+        "name_id": "ZX",
+        "published": false,
+        "partner_uid": "blt605fe56998298b9c",
+        "uid": "bltc6b1665d0395b07e"
+      },
+      {
+        "name_id": "weqrw",
+        "published": false,
+        "partner_uid": "blt605fe56998298b9c",
+        "uid": "blta455b89836001c66"
+      },
+      {
+        "name_id": "342343232",
+        "published": false,
+        "partner_uid": "blt605fe56998298b9c",
+        "uid": "blt06712b33f4664e16"
+      }
+    ]
+  },
+  {
+    "name": "test",
+    "logo": {
+      "uid": "bltf2fe2913d88c97d8",
+      "created_at": "2020-03-12T09:12:08.936Z",
+      "updated_at": "2020-03-12T09:12:08.936Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "8473",
+      "tags": [],
+      "app_user_object_uid": "bltde38326e881e51ac",
+      "filename": "images.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt94dd31dbba9363f2/uploads/5e69fce8d302b81e401d1583/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "test",
+    "uid": "blt94dd31dbba9363f2",
+    "partner_configurations": [
+      {
+        "name_id": "adas",
+        "published": false,
+        "partner_uid": "blt94dd31dbba9363f2",
+        "uid": "blt46f3f54d810d0e53"
+      },
+      {
+        "name_id": "test7877",
+        "published": false,
+        "partner_uid": "blt94dd31dbba9363f2",
+        "uid": "bltcf838c2479a8c700"
+      }
+    ]
+  },
+  {
+    "name": "QA Test SMITA",
+    "logo": {
+      "uid": "blt83014980df6f759d",
+      "created_at": "2020-01-13T06:05:31.295Z",
+      "updated_at": "2020-01-13T06:05:31.295Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "44851",
+      "tags": [],
+      "app_user_object_uid": "bltaef247f7088fbe75",
+      "filename": "qa-quality-assurance-bug-03-512.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blte51a667b9e14a354/uploads/5e1c08ab4944a07c388735ef/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "QA Test SMITA",
+    "uid": "blte51a667b9e14a354",
+    "partner_configurations": [
+      {
+        "name_id": "QA Test SMI",
+        "published": true,
+        "partner_uid": "blte51a667b9e14a354",
+        "uid": "bltd6c2e5734217ed31"
+      }
+    ]
+  },
+  {
+    "name": "doco",
+    "logo": {
+      "uid": "bltaaf604fdaf7d062f",
+      "created_at": "2019-11-06T06:48:48.745Z",
+      "updated_at": "2019-11-06T06:48:48.745Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "19557",
+      "tags": [],
+      "app_user_object_uid": "blt7506d2145bfe9d3b",
+      "filename": "TATA-docomo-logo.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/bltca468e1ecb1291f1/uploads/5dc26cd0d9fff50d2fc6bf85/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "sdfsgdf",
+    "uid": "bltca468e1ecb1291f1",
+    "partner_configurations": [
+      {
+        "name_id": "wer",
+        "published": false,
+        "partner_uid": "bltca468e1ecb1291f1",
+        "uid": "blt7c6f92baaa3d7572"
+      }
+    ]
+  },
+  {
+    "name": "sanitytej",
+    "logo": {
+      "uid": "bltbc59684ecefad145",
+      "created_at": "2019-10-04T11:03:46.441Z",
+      "updated_at": "2019-10-04T11:03:46.441Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "2202",
+      "tags": [],
+      "app_user_object_uid": "blt7506d2145bfe9d3b",
+      "filename": "download (1).png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt099057c06ba07891/uploads/5d97271235aff96c3037561e/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "qwertyyfghjkl",
+    "uid": "blt099057c06ba07891",
+    "partner_configurations": [
+      {
+        "name_id": "wergthyju",
+        "published": false,
+        "partner_uid": "blt099057c06ba07891",
+        "uid": "blt9e5f62d27ac80c69"
+      },
+      {
+        "name_id": "srdtfyghujikolp;ghjk",
+        "published": false,
+        "partner_uid": "blt099057c06ba07891",
+        "uid": "bltaf907c373e1d4f24"
+      },
+      {
+        "name_id": "DSVVVVVVVV",
+        "published": false,
+        "partner_uid": "blt099057c06ba07891",
+        "uid": "blt3c480d5cea423a94"
+      },
+      {
+        "name_id": "gvjhbklm;",
+        "published": false,
+        "partner_uid": "blt099057c06ba07891",
+        "uid": "blt20e6ff9a7ad74f99"
+      }
+    ]
+  },
+  {
+    "name": "MOCK OAuth Partner",
+    "logo": {
+      "uid": "bltfa9b78bf77740051",
+      "created_at": "2019-09-17T10:25:58.571Z",
+      "updated_at": "2019-09-17T10:25:58.571Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/jpeg",
+      "file_size": "12553",
+      "tags": [],
+      "app_user_object_uid": "blt60b03827527ee8e3",
+      "filename": "blt0424ed1719297fb8-bltc1db302202c962fd-cjBVcCJG_400x400.jpg",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt11c77f01bafa560c/uploads/5d80b4b6cc1a4b569834f2d3/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "MOCK OAuth Partner.",
+    "uid": "blt11c77f01bafa560c",
+    "partner_configurations": [
+      {
+        "partner_uid": "blt11c77f01bafa560c",
+        "name_id": "oauth_partner",
+        "published": true,
+        "uid": "bltdba6acbd909dce0b"
+      }
+    ]
+  },
+  {
+    "name": "Telenor Prod",
+    "logo": {
+      "uid": "blt16885a5b67e03a65",
+      "created_at": "2019-03-08T07:21:38.674Z",
+      "updated_at": "2019-03-08T07:21:38.674Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/jpeg",
+      "file_size": "4756",
+      "tags": [],
+      "app_user_object_uid": null,
+      "filename": "tenelor.jpeg",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt5ab8ca70d41220c5/uploads/5c821802b027212c2d0cc814/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "Telenor Prod",
+    "uid": "blt5ab8ca70d41220c5",
+    "partner_configurations": [
+      {
+        "partner_uid": "blt5ab8ca70d41220c5",
+        "published": true,
+        "uid": "bltf875227b6bd5e262",
+        "name_id": "telenor_coz"
+      }
+    ]
+  },
+  {
+    "name": "movistar Stag",
+    "logo": {
+      "uid": "blt2f18c57ec1885085",
+      "created_at": "2018-10-04T12:25:20.661Z",
+      "updated_at": "2018-10-04T12:25:20.661Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "30458",
+      "tags": [],
+      "app_user_object_uid": "blt81d51536784ecf83",
+      "filename": "movistar_prod.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/bltfcbc19fa65214fef/uploads/5bb606b007ff3ce97484850a/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "movistart stag",
+    "uid": "bltfcbc19fa65214fef",
+    "partner_configurations": [
+      {
+        "partner_uid": "bltfcbc19fa65214fef",
+        "published": true,
+        "uid": "blt8068b254f98b2b54",
+        "name_id": "movistar_gua"
+      }
+    ]
+  },
+  {
+    "name": "Vivo",
+    "description": "VIVO Brazil",
+    "logo": {
+      "uid": "blt424c5496a181b721",
+      "created_at": "2018-10-09T09:57:20.186Z",
+      "updated_at": "2018-10-09T09:57:20.186Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "3040",
+      "tags": [],
+      "app_user_object_uid": null,
+      "filename": "logo-vivo-branco.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt46cf90e511a64e06/uploads/5bbc7b80968f80dd2cdc70fc/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "uid": "blt46cf90e511a64e06",
+    "partner_configurations": [
+      {
+        "partner_uid": "blt46cf90e511a64e06",
+        "published": true,
+        "uid": "blt30eb492019d89535",
+        "name_id": "vivo_tkm"
+      }
+    ]
+  },
+  {
+    "name": "Multi select drop down testing",
+    "logo": {
+      "uid": "bltca79f90239bd825b",
+      "created_at": "2020-10-20T06:58:00.394Z",
+      "updated_at": "2020-10-20T06:58:00.394Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/jpeg",
+      "file_size": "27799",
+      "tags": [],
+      "app_user_object_uid": "bltaef247f7088fbe75",
+      "filename": "Slack_3x2.jpg",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt16d19c12592de598/uploads/5f8e8a78d161e20dde609f63/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "Multi-select dropdown testing",
+    "uid": "blt16d19c12592de598",
+    "partner_configurations": [
+      {
+        "name_id": "multiselect",
+        "published": false,
+        "partner_uid": "blt16d19c12592de598",
+        "uid": "bltc888184874bfb1ae"
+      },
+      {
+        "name_id": "newconfig",
+        "published": false,
+        "partner_uid": "blt16d19c12592de598",
+        "uid": "blt7bd5c544f5f22e82"
+      }
+    ]
+  },
+  {
+    "name": "vasant-test",
+    "logo": {
+      "uid": "blt62826f06d4c51d05",
+      "created_at": "2020-05-07T07:36:43.484Z",
+      "updated_at": "2020-05-07T07:36:43.484Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "32026",
+      "tags": [],
+      "app_user_object_uid": "blt31f67c8df0d4d429",
+      "filename": "logo-placeholder.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt92b6a20340bc2f99/uploads/5eb3ba8bc2003b2d28303650/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "",
+    "uid": "blt92b6a20340bc2f99",
+    "partner_configurations": [
+      {
+        "name_id": "vasant-fix",
+        "published": true,
+        "partner_uid": "blt92b6a20340bc2f99",
+        "uid": "bltc5741265da2b5609"
+      }
+    ]
+  },
+  {
+    "name": "rohit-test",
+    "logo": {
+      "uid": "blt4c2d3ba09171b28e",
+      "created_at": "2020-05-06T14:00:39.876Z",
+      "updated_at": "2020-05-06T14:00:39.876Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/svg+xml",
+      "file_size": "2671",
+      "tags": [],
+      "app_user_object_uid": "blt31f67c8df0d4d429",
+      "filename": "logo.svg",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt0f6367d0b73dd098/uploads/5eb2c307b318950cf08948ba/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "",
+    "uid": "blt0f6367d0b73dd098",
+    "partner_configurations": [
+      {
+        "name_id": "config-test",
+        "published": false,
+        "partner_uid": "blt0f6367d0b73dd098",
+        "uid": "bltac2531c26f61e2f4"
+      }
+    ]
+  },
+  {
+    "name": "On network mobile",
+    "logo": {
+      "uid": "blt16e39f0aaa448262",
+      "created_at": "2020-05-04T12:49:35.306Z",
+      "updated_at": "2020-05-05T05:55:02.414Z",
+      "created_by": null,
+      "updated_by": "bltb51cf36098c5cfe49993b223",
+      "content_type": "image/png",
+      "file_size": "173692",
+      "tags": [],
+      "app_user_object_uid": "blt60b03827527ee8e3",
+      "filename": "8ball.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/bltfbbe98bc8a9c62af/uploads/5eb00f5f2032e525a8470919/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "Test partner experience movistar flow.",
+    "uid": "bltfbbe98bc8a9c62af",
+    "partner_configurations": [
+      {
+        "name_id": "ono_client_success",
+        "published": true,
+        "partner_uid": "bltfbbe98bc8a9c62af",
+        "uid": "blt61bac6265a56777c"
+      },
+      {
+        "name_id": "ono_server_success",
+        "published": true,
+        "partner_uid": "bltfbbe98bc8a9c62af",
+        "uid": "blt5efdbca6cb63a6cf"
+      },
+      {
+        "name_id": "ono_server_error",
+        "published": true,
+        "partner_uid": "bltfbbe98bc8a9c62af",
+        "uid": "blt8c10e8220fffa5d3"
+      },
+      {
+        "name_id": "ono_client_error_500",
+        "published": true,
+        "partner_uid": "bltfbbe98bc8a9c62af",
+        "uid": "blt7098628011455a27"
+      },
+      {
+        "name_id": "ono_client_error",
+        "published": true,
+        "partner_uid": "bltfbbe98bc8a9c62af",
+        "uid": "blt4dc389239c187370"
+      }
+    ]
+  },
+  {
+    "name": "Movistar mobile",
+    "logo": {
+      "uid": "blt0dac77fbb85cf6e4",
+      "created_at": "2020-04-09T10:29:45.389Z",
+      "updated_at": "2020-04-09T10:29:45.389Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "4365",
+      "tags": [],
+      "app_user_object_uid": "blt81d51536784ecf83",
+      "filename": "movistar_logo.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt4dd69c0e4f5d876a/uploads/5e8ef919d16c162be1f0b54e/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "Test partner experience movistar flow.",
+    "uid": "blt4dd69c0e4f5d876a",
+    "partner_configurations": [
+      {
+        "name_id": "movistarnetworkonly",
+        "published": true,
+        "partner_uid": "blt4dd69c0e4f5d876a",
+        "uid": "blt7a0833ae87b6c0a3"
+      },
+      {
+        "name_id": "movistartraditional",
+        "published": true,
+        "partner_uid": "blt4dd69c0e4f5d876a",
+        "uid": "bltb89457d4691766f7"
+      }
+    ]
+  },
+  {
+    "name": "Telekom Croatia01",
+    "logo": {
+      "uid": "blt8c9a1ce721b6b5af",
+      "created_at": "2020-01-28T06:59:15.040Z",
+      "updated_at": "2020-01-28T06:59:15.040Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "2985",
+      "tags": [],
+      "app_user_object_uid": "blt03de00f7f1bcd5d4",
+      "filename": "blt82a3e5039ab27e67-t-logo.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt1f855a2037750cbd/uploads/5e2fdbc3567bbb14f9c30f3d/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "Telekom Croatia",
+    "uid": "blt1f855a2037750cbd",
+    "partner_configurations": [
+      {
+        "name_id": "telekomcroatia01",
+        "published": false,
+        "partner_uid": "blt1f855a2037750cbd",
+        "uid": "blta748e109ffe8df16"
+      }
+    ]
+  },
+  {
+    "name": "A1",
+    "logo": {
+      "uid": "blt5958e928f8f53af6",
+      "created_at": "2020-01-20T08:41:01.919Z",
+      "updated_at": "2020-01-20T08:41:01.919Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/jpeg",
+      "file_size": "379598",
+      "tags": [],
+      "app_user_object_uid": "blt81d51536784ecf83",
+      "filename": "A1_Logo_Red.jpg",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt47ba4c09f51a2b43/uploads/5e25679da5b1a830a53ee4f1/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "A1 Telekom, Austria",
+    "uid": "blt47ba4c09f51a2b43",
+    "partner_configurations": [
+      {
+        "name_id": "a1",
+        "published": true,
+        "partner_uid": "blt47ba4c09f51a2b43",
+        "uid": "blt84506f3ea14d509b"
+      }
+    ]
+  },
+  {
+    "name": "Megacable",
+    "logo": {
+      "uid": "blt6cf3b9ac0640c282",
+      "created_at": "2019-12-16T09:37:16.330Z",
+      "updated_at": "2019-12-16T09:37:16.330Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/jpeg",
+      "file_size": "7200",
+      "tags": [],
+      "app_user_object_uid": "blt60b03827527ee8e3",
+      "filename": "megacable.jpeg",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt32ed893867f91b4e/uploads/5df7504ca54a38304f12e09d/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "Megacable",
+    "uid": "blt32ed893867f91b4e",
+    "partner_configurations": [
+      {
+        "name_id": "megacable",
+        "published": true,
+        "partner_uid": "blt32ed893867f91b4e",
+        "uid": "blt14cfdb25441fdafd"
+      }
+    ]
+  },
+  {
+    "name": "Telekom Croatia",
+    "logo": {
+      "uid": "bltd6d798c69365c7ca",
+      "created_at": "2019-11-25T11:16:45.665Z",
+      "updated_at": "2019-11-25T11:16:45.665Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "32026",
+      "tags": [],
+      "app_user_object_uid": "blt03de00f7f1bcd5d4",
+      "filename": "logo-placeholder.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/bltb5781c5cabb0a3cf/uploads/5ddbb81dc35a690e80f627c7/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "Telekom Croatia",
+    "uid": "bltb5781c5cabb0a3cf",
+    "partner_configurations": [
+      {
+        "name_id": "telekomcroatia",
+        "published": true,
+        "partner_uid": "bltb5781c5cabb0a3cf",
+        "uid": "blt171ee9c707432fcd"
+      }
+    ]
+  },
+  {
+    "name": "Promotional Partner",
+    "logo": {
+      "uid": "blt23a5b1985f46e4be",
+      "created_at": "2019-09-27T05:36:00.278Z",
+      "updated_at": "2019-09-27T05:36:00.278Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/jpeg",
+      "file_size": "12553",
+      "tags": [],
+      "app_user_object_uid": "blt60b03827527ee8e3",
+      "filename": "bltc1db302202c962fd-cjBVcCJG_400x400.jpg",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt288a460c321097eb/uploads/5d8d9fc01a50033db2002c5c/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "Promotional Partner",
+    "uid": "blt288a460c321097eb",
+    "partner_configurations": [
+      {
+        "partner_uid": "blt288a460c321097eb",
+        "name_id": "promotionalPartner",
+        "published": true,
+        "uid": "blt9be19ffc781a0bb3"
+      }
+    ]
+  },
+  {
+    "name": "Reliance",
+    "logo": {
+      "uid": "blt98fe58d4573f67bd",
+      "created_at": "2017-10-13T13:14:09.196Z",
+      "updated_at": "2017-10-13T13:14:09.196Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "81076",
+      "tags": [],
+      "app_user_object_uid": null,
+      "filename": "Reliance_Industries_Logo.svg.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/bltb3f6f956a4ee8c1a/uploads/59e0bc215057afb621ce73cc/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "",
+    "uid": "bltb3f6f956a4ee8c1a",
+    "partner_configurations": [
+      {
+        "partner_uid": "bltb3f6f956a4ee8c1a",
+        "published": true,
+        "uid": "blt4ab1256e220547e5",
+        "name_id": "testing_kxp"
+      }
+    ]
+  },
+  {
+    "name": "ASDFASDFASDFASDFASDFASDFASDFASDFASDFASDFASDFASDFAS",
+    "logo": {
+      "uid": "blt88c601be9dc072f6",
+      "created_at": "2020-10-21T07:52:35.057Z",
+      "updated_at": "2020-10-21T07:52:35.057Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "206916",
+      "tags": [],
+      "app_user_object_uid": "blt7506d2145bfe9d3b",
+      "filename": "screencapture-raweng-atlassian-net-secure-Dashboard-jspa-2020-10-20-20_57_37.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt6aa05f61ab16dae0/uploads/5f8fe8c3462bd50ddc5f38ec/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "",
+    "uid": "blt6aa05f61ab16dae0",
+    "partner_configurations": [
+      {
+        "name_id": "aqs",
+        "published": false,
+        "partner_uid": "blt6aa05f61ab16dae0",
+        "uid": "bltf4d5a94df15ff371"
+      }
+    ]
+  },
+  {
+    "name": "deletion",
+    "logo": {
+      "uid": "bltbbdd7b73f29c9dd0",
+      "created_at": "2020-09-22T07:25:29.465Z",
+      "updated_at": "2020-09-22T07:25:29.465Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "257267",
+      "tags": [],
+      "app_user_object_uid": "blt7506d2145bfe9d3b",
+      "filename": "Screenshot_20200921-121424.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt45465fea70942d1f/uploads/5f69a6e9682ea10ddc06609f/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "deletiondeletion",
+    "uid": "blt45465fea70942d1f",
+    "partner_configurations": [
+      {
+        "name_id": "test1",
+        "published": false,
+        "partner_uid": "blt45465fea70942d1f",
+        "uid": "blt31c9dd722c57cc8e"
+      },
+      {
+        "name_id": "hhjbj",
+        "published": false,
+        "partner_uid": "blt45465fea70942d1f",
+        "uid": "bltce6af0a3b8581e1e"
+      },
+      {
+        "name_id": "deletion",
+        "published": false,
+        "partner_uid": "blt45465fea70942d1f",
+        "uid": "bltefe767cc2afaa191"
+      }
+    ]
+  },
+  {
+    "name": "A1Test",
+    "logo": {
+      "uid": "blt7bce934c8be7342d",
+      "created_at": "2020-08-11T07:58:55.398Z",
+      "updated_at": "2020-08-11T07:58:55.398Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "2078",
+      "tags": [],
+      "app_user_object_uid": "bltaef247f7088fbe75",
+      "filename": "Test.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt4f8de0f541aa80cc/uploads/5f324fbf7745100e64d65a9a/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "A1Test",
+    "uid": "blt4f8de0f541aa80cc",
+    "partner_configurations": [
+      {
+        "name_id": "a1config",
+        "published": false,
+        "partner_uid": "blt4f8de0f541aa80cc",
+        "uid": "blte40e5571b918e9ef"
+      }
+    ]
+  },
+  {
+    "name": "Clive Testing Partner",
+    "logo": {
+      "uid": "bltf4fa8363943ae1f6",
+      "created_at": "2020-06-04T13:05:03.966Z",
+      "updated_at": "2020-06-04T13:05:03.966Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/jpeg",
+      "file_size": "138610",
+      "tags": [],
+      "app_user_object_uid": "bltf11e0ccee05908ce",
+      "filename": "110350.jpg",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt10085ff854ed5620/uploads/5ed8f17f2c927e0d52e8987a/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "Test",
+    "uid": "blt10085ff854ed5620",
+    "partner_configurations": [
+      {
+        "name_id": "clive_demo_2",
+        "published": false,
+        "partner_uid": "blt10085ff854ed5620",
+        "uid": "bltd69c83b916832d73"
+      },
+      {
+        "name_id": "saml-login-banner",
+        "published": false,
+        "partner_uid": "blt10085ff854ed5620",
+        "uid": "blteb772aff895cc1eb"
+      },
+      {
+        "name_id": "Tushar-Testing",
+        "published": false,
+        "partner_uid": "blt10085ff854ed5620",
+        "uid": "blt32d27945675f3597"
+      },
+      {
+        "name_id": "clive_demo_banner",
+        "published": false,
+        "partner_uid": "blt10085ff854ed5620",
+        "uid": "blt2d6b53b1a1fffa1b"
+      }
+    ]
+  },
+  {
+    "name": "Slack Integration 1",
+    "logo": {
+      "uid": "blte48b068983e3b1b1",
+      "created_at": "2020-01-27T06:31:38.859Z",
+      "updated_at": "2020-01-27T06:31:38.859Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "30569",
+      "tags": [],
+      "app_user_object_uid": "blt7506d2145bfe9d3b",
+      "filename": "w1vehndv.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt95caa418000e3cd5/uploads/5e2e83caef68a522b3a268d8/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "Slack Integration",
+    "uid": "blt95caa418000e3cd5",
+    "partner_configurations": [
+      {
+        "name_id": "DSFGTHJUDSFRGTHYJTUE",
+        "published": false,
+        "partner_uid": "blt95caa418000e3cd5",
+        "uid": "blt9a9b5fe115d70c56"
+      },
+      {
+        "name_id": "aqsdwefrgthyjukilosw",
+        "published": false,
+        "partner_uid": "blt95caa418000e3cd5",
+        "uid": "blt529e1d689a0b3fda"
+      },
+      {
+        "name_id": "DRTGYHUJIKOXDCxdycfg",
+        "published": false,
+        "partner_uid": "blt95caa418000e3cd5",
+        "uid": "blt0060dbf07416e09d"
+      },
+      {
+        "name_id": "cytvuibopESRDGTFHJES",
+        "published": false,
+        "partner_uid": "blt95caa418000e3cd5",
+        "uid": "blt31b62a4d6f545ab7"
+      },
+      {
+        "name_id": "tyuioj",
+        "published": false,
+        "partner_uid": "blt95caa418000e3cd5",
+        "uid": "bltee61fb0dceb5d12f"
+      },
+      {
+        "name_id": "ghjvhkbl",
+        "published": false,
+        "partner_uid": "blt95caa418000e3cd5",
+        "uid": "blt63959d3c96bd73c0"
+      },
+      {
+        "name_id": "hijbkj",
+        "published": false,
+        "partner_uid": "blt95caa418000e3cd5",
+        "uid": "blt052ca5460362f51f"
+      },
+      {
+        "name_id": "kjlnk;jk",
+        "published": false,
+        "partner_uid": "blt95caa418000e3cd5",
+        "uid": "bltb58ac43febde5570"
+      },
+      {
+        "name_id": "ohipjo[kp",
+        "published": false,
+        "partner_uid": "blt95caa418000e3cd5",
+        "uid": "bltfeb60b719c71a1c0"
+      },
+      {
+        "name_id": "kbjl;k",
+        "published": false,
+        "partner_uid": "blt95caa418000e3cd5",
+        "uid": "blt1056e1e16feeae24"
+      }
+    ]
+  },
+  {
+    "name": "token",
+    "logo": {
+      "uid": "blt7201e5ce18a1afc1",
+      "created_at": "2020-01-14T11:41:34.444Z",
+      "updated_at": "2020-01-14T11:41:34.444Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/jpeg",
+      "file_size": "175410",
+      "tags": [],
+      "app_user_object_uid": "bltaef247f7088fbe75",
+      "filename": "23_one-diy-fire-engine-and_halloween-2012-a-fire-crew-wild-ink-press.jpg",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt419f25a7d80c6879/uploads/5e1da8eef6e78a1070149888/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "][opiuoyitre",
+    "uid": "blt419f25a7d80c6879",
+    "partner_configurations": [
+      {
+        "name_id": "oiuytre",
+        "published": false,
+        "partner_uid": "blt419f25a7d80c6879",
+        "uid": "bltfd4c9a0610fed373"
+      }
+    ]
+  },
+  {
+    "name": "Smita-Test",
+    "logo": {
+      "uid": "bltd8b1c05770f33721",
+      "created_at": "2019-11-19T10:58:32.892Z",
+      "updated_at": "2019-11-19T10:58:32.892Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "44929",
+      "tags": [],
+      "app_user_object_uid": "bltaef247f7088fbe75",
+      "filename": "partner-discount.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt5bcc95ea3d446a92/uploads/5dd3cad8950e122d269d08e0/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "Smita-Test",
+    "uid": "blt5bcc95ea3d446a92",
+    "partner_configurations": [
+      {
+        "name_id": "QATest",
+        "published": false,
+        "partner_uid": "blt5bcc95ea3d446a92",
+        "uid": "blt1bd3ec71f1d3b7b9"
+      }
+    ]
+  },
+  {
+    "name": "BannersTesting",
+    "logo": {
+      "uid": "blt60fb9801948b8868",
+      "created_at": "2019-10-16T10:14:00.055Z",
+      "updated_at": "2019-10-16T10:14:00.055Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "41554",
+      "tags": [],
+      "app_user_object_uid": "bltaef247f7088fbe75",
+      "filename": "virus_bug_testing_qa_search_dev-512.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt7bfbc4396bbb7927/uploads/5da6ed68ee46ab696bccf37b/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "BannersTesting",
+    "uid": "blt7bfbc4396bbb7927",
+    "partner_configurations": [
+      {
+        "name_id": "213213",
+        "published": false,
+        "partner_uid": "blt7bfbc4396bbb7927",
+        "uid": "bltf67ae5d68239b308"
+      },
+      {
+        "name_id": "newBanner/both",
+        "published": false,
+        "partner_uid": "blt7bfbc4396bbb7927",
+        "uid": "blt44a33bd28160f11d"
+      }
+    ]
+  },
+  {
+    "name": "MOCK 2FA Partner",
+    "logo": {
+      "uid": "blta6b294bb59367f50",
+      "created_at": "2019-09-17T09:51:29.496Z",
+      "updated_at": "2019-09-17T09:51:29.496Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/jpeg",
+      "file_size": "12553",
+      "tags": [],
+      "app_user_object_uid": "blt60b03827527ee8e3",
+      "filename": "blt0f536becb5dade50-blt43c6ce4a630eefdb-cjBVcCJG_400x400.jpg",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt444140f3130259ed/uploads/5d80aca1b2702356268d02b1/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "MOCK 2FA Partner.",
+    "uid": "blt444140f3130259ed",
+    "partner_configurations": [
+      {
+        "partner_uid": "blt444140f3130259ed",
+        "name_id": "2fa_partner",
+        "published": true,
+        "uid": "bltc06e7eacb80bda26"
+      }
+    ]
+  },
+  {
+    "name": "Rakuten",
+    "logo": {
+      "uid": "bltba75980d6ce3ea64",
+      "created_at": "2018-01-25T09:59:05.286Z",
+      "updated_at": "2018-01-25T09:59:05.286Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "5078",
+      "tags": [],
+      "app_user_object_uid": null,
+      "filename": "Rakuten-Partner-logo.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt981e00de00fefa70/uploads/5a69aa69c5af7d2f34ca7c85/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "",
+    "uid": "blt981e00de00fefa70",
+    "partner_configurations": [
+      {
+        "partner_uid": "blt981e00de00fefa70",
+        "published": false,
+        "uid": "bltc9b252d749557a12",
+        "name_id": "rakuten_vzm"
+      }
+    ]
+  },
+  {
+    "name": "Digicel",
+    "logo": {
+      "uid": "bltb2cc18ca3d99c561",
+      "created_at": "2017-10-26T12:27:41.432Z",
+      "updated_at": "2017-10-26T12:27:41.432Z",
+      "created_by": "blt15ddc941cf1ea2579fee2a59",
+      "updated_by": "blt15ddc941cf1ea2579fee2a59",
+      "content_type": "image/jpeg",
+      "file_size": "31394",
+      "tags": [],
+      "app_user_object_uid": "system",
+      "filename": "Digicel-Logo.jpg",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt46fac046838ef841/uploads/59f1d4bde466357854e32548/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "uid": "blt46fac046838ef841",
+    "partner_configurations": [
+      {
+        "partner_uid": "blt46fac046838ef841",
+        "published": true,
+        "uid": "blt730071bafd8cf3e1",
+        "name_id": "digicel_wse"
+      }
+    ]
+  },
+  {
+    "name": "reflectreflectreflectreflectreflectreflectreflectr",
+    "logo": {
+      "uid": "blt576fc4c39e0006ae",
+      "created_at": "2020-10-21T06:33:17.808Z",
+      "updated_at": "2020-10-21T06:33:17.808Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "206916",
+      "tags": [],
+      "app_user_object_uid": "blt7506d2145bfe9d3b",
+      "filename": "screencapture-raweng-atlassian-net-secure-Dashboard-jspa-2020-10-20-20_57_37.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt5a8f3b740bab7847/uploads/5f8fd62d462bd50ddc5f38e2/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "SQDWDF",
+    "uid": "blt5a8f3b740bab7847",
+    "partner_configurations": []
+  },
+  {
+    "name": "test_partner",
+    "logo": {
+      "uid": "bltde6886e01e492431",
+      "created_at": "2020-04-09T05:15:38.633Z",
+      "updated_at": "2020-04-09T05:15:38.633Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/jpeg",
+      "file_size": "24483",
+      "tags": [],
+      "app_user_object_uid": "blt81d51536784ecf83",
+      "filename": "NBA-logo.jpg",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt2943378d6e02d068/uploads/5e8eaf7ac1d1f923f9b08879/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "this is test partner",
+    "uid": "blt2943378d6e02d068",
+    "partner_configurations": [
+      {
+        "name_id": "testp1",
+        "published": false,
+        "partner_uid": "blt2943378d6e02d068",
+        "uid": "bltac0b5548431f7ad3"
+      },
+      {
+        "name_id": "testp2",
+        "published": false,
+        "partner_uid": "blt2943378d6e02d068",
+        "uid": "blt8b4f7c6c5175b496"
+      }
+    ]
+  },
+  {
+    "name": "TestPartner",
+    "logo": {
+      "uid": "blt97ee180358ae40e1",
+      "created_at": "2020-01-28T16:29:10.043Z",
+      "updated_at": "2020-01-28T16:29:10.043Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/jpeg",
+      "file_size": "24483",
+      "tags": [],
+      "app_user_object_uid": "blt81d51536784ecf83",
+      "filename": "NBA-logo.jpg",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt6ba51f41838e8c07/uploads/5e306156eb213a2d44d0a287/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "Test description",
+    "uid": "blt6ba51f41838e8c07",
+    "partner_configurations": [
+      {
+        "name_id": "Test1",
+        "published": false,
+        "partner_uid": "blt6ba51f41838e8c07",
+        "uid": "blt31e29c203cd0be78"
+      }
+    ]
+  },
+  {
+    "name": "Authorization_Traditional",
+    "logo": {
+      "uid": "blt8e5f9a08f00117c2",
+      "created_at": "2019-12-18T13:34:05.818Z",
+      "updated_at": "2019-12-18T13:34:05.818Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/jpeg",
+      "file_size": "7355",
+      "tags": [],
+      "app_user_object_uid": "blt03de00f7f1bcd5d4",
+      "filename": "download.jpeg",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/bltb653f388f113f74b/uploads/5dfa2acd9621747614fd7c4e/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "Authorization_Traditional",
+    "uid": "bltb653f388f113f74b",
+    "partner_configurations": [
+      {
+        "name_id": "authorization",
+        "published": true,
+        "partner_uid": "bltb653f388f113f74b",
+        "uid": "blt62b55ca2c15bbc6b"
+      }
+    ]
+  },
+  {
+    "name": "bbbbb",
+    "logo": {
+      "uid": "bltcd9d5042be246430",
+      "created_at": "2019-11-08T10:01:49.523Z",
+      "updated_at": "2019-11-08T10:01:49.523Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "44929",
+      "tags": [],
+      "app_user_object_uid": "bltaef247f7088fbe75",
+      "filename": "partner-discount.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/bltb306ebf75802e1ef/uploads/5dc53d0d59ab8e09921f05ca/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "21323",
+    "uid": "bltb306ebf75802e1ef",
+    "partner_configurations": [
+      {
+        "name_id": "aaaaxxx",
+        "published": false,
+        "partner_uid": "bltb306ebf75802e1ef",
+        "uid": "blt2065ac6c794a60f0"
+      }
+    ]
+  },
+  {
+    "name": "Tejal123465",
+    "logo": {
+      "uid": "blt2bbaa548435d29e3",
+      "created_at": "2019-11-22T06:28:11.587Z",
+      "updated_at": "2019-11-22T06:28:11.587Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "1903",
+      "tags": [],
+      "app_user_object_uid": "blt7506d2145bfe9d3b",
+      "filename": "download.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt874769c4db023e55/uploads/5dd77ffba9a090224363d313/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "qwerty123",
+    "uid": "blt874769c4db023e55",
+    "partner_configurations": [
+      {
+        "name_id": "WWWWWWWWWWWWWWWWWWWW",
+        "published": false,
+        "partner_uid": "blt874769c4db023e55",
+        "uid": "blt258ea8f72aeada66"
+      },
+      {
+        "partner_uid": "blt874769c4db023e55",
+        "name_id": "sasdsd",
+        "published": false,
+        "uid": "blted39c9af960b5674"
+      },
+      {
+        "name_id": "k",
+        "published": false,
+        "partner_uid": "blt874769c4db023e55",
+        "uid": "bltccddcd4883eba9e7"
+      }
+    ]
+  },
+  {
+    "name": "dev new",
+    "logo": {
+      "uid": "bltabda21a68138c98f",
+      "created_at": "2020-10-21T08:06:21.423Z",
+      "updated_at": "2020-10-21T08:06:21.423Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "206916",
+      "tags": [],
+      "app_user_object_uid": "blt7506d2145bfe9d3b",
+      "filename": "screencapture-raweng-atlassian-net-secure-Dashboard-jspa-2020-10-20-20_57_37.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/bltbf7654b5d1e918a7/uploads/5f8febfd462bd50ddc5f38f2/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "sad",
+    "uid": "bltbf7654b5d1e918a7",
+    "partner_configurations": [
+      {
+        "name_id": "asdfbg",
+        "published": false,
+        "partner_uid": "bltbf7654b5d1e918a7",
+        "uid": "blt276e49aa9785b269"
+      },
+      {
+        "name_id": "asdafs",
+        "published": false,
+        "partner_uid": "bltbf7654b5d1e918a7",
+        "uid": "blt68eeb8e3ab35410d"
+      }
+    ]
+  },
+  {
+    "name": "demo",
+    "logo": {
+      "uid": "blt201084fcabf6914a",
+      "created_at": "2019-10-31T07:12:01.546Z",
+      "updated_at": "2019-10-31T07:12:01.546Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "127897",
+      "tags": [],
+      "app_user_object_uid": "bltaef247f7088fbe75",
+      "filename": "Screenshot 2019-10-29 at 3.01.33 AM.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/bltf6b9b561222e98cf/uploads/5dba8941db1b2e4057f633f9/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "demo",
+    "uid": "bltf6b9b561222e98cf",
+    "partner_configurations": [
+      {
+        "name_id": "89808",
+        "published": false,
+        "partner_uid": "bltf6b9b561222e98cf",
+        "uid": "blt9fdee208ab36f6ac"
+      },
+      {
+        "name_id": "qa_test",
+        "published": false,
+        "partner_uid": "bltf6b9b561222e98cf",
+        "uid": "blt367a10818002b1d8"
+      }
+    ]
+  },
+  {
+    "name": "smi",
+    "logo": {
+      "uid": "blt324ed8dafbd1b1a3",
+      "created_at": "2019-10-15T06:47:07.681Z",
+      "updated_at": "2019-10-15T06:47:07.681Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "40295",
+      "tags": [],
+      "app_user_object_uid": "bltaef247f7088fbe75",
+      "filename": "img_277302.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt20575bb92d1722fa/uploads/5da56b6bcd30014555afd817/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "smi32323",
+    "uid": "blt20575bb92d1722fa",
+    "partner_configurations": [
+      {
+        "name_id": "qwer",
+        "published": false,
+        "partner_uid": "blt20575bb92d1722fa",
+        "uid": "blt8b8c2b524d62204c"
+      },
+      {
+        "name_id": "banner",
+        "published": false,
+        "partner_uid": "blt20575bb92d1722fa",
+        "uid": "blt16df2b6d079a6e60"
+      },
+      {
+        "name_id": "test",
+        "published": false,
+        "partner_uid": "blt20575bb92d1722fa",
+        "uid": "bltf3bd5ad33980cd8b"
+      }
+    ]
+  },
+  {
+    "name": "Altice",
+    "logo": {
+      "uid": "blte515dbbbf131ce9b",
+      "created_at": "2019-08-30T06:19:25.193Z",
+      "updated_at": "2019-08-30T06:19:25.193Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/jpeg",
+      "file_size": "29167",
+      "tags": [],
+      "app_user_object_uid": "blt81d51536784ecf83",
+      "filename": "altice.jpg",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt184acb6de6f1efad/uploads/5d68bfed097229279f4d50b3/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "Altice partner onboarded for opin.media domain..",
+    "uid": "blt184acb6de6f1efad",
+    "partner_configurations": [
+      {
+        "partner_uid": "blt184acb6de6f1efad",
+        "name_id": "altice_1",
+        "published": true,
+        "uid": "bltbe9bc8d4c3c49aab"
+      },
+      {
+        "name_id": "test par",
+        "published": false,
+        "partner_uid": "blt184acb6de6f1efad",
+        "uid": "blt440d362a9242b010"
+      }
+    ]
+  },
+  {
+    "name": "PM Connect",
+    "logo": {
+      "uid": "blt507bcb4291a7f6a3",
+      "created_at": "2020-08-17T06:09:28.231Z",
+      "updated_at": "2020-08-17T06:09:28.231Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "22457",
+      "tags": [],
+      "app_user_object_uid": "blt03de00f7f1bcd5d4",
+      "filename": "PM-Connect.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt8680aba382621dfb/uploads/5f3a1f1804c02319c644881e/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "PM Connect",
+    "uid": "blt8680aba382621dfb",
+    "partner_configurations": [
+      {
+        "name_id": "pmconnect",
+        "published": true,
+        "partner_uid": "blt8680aba382621dfb",
+        "uid": "bltf1e6ab4082b04746"
+      }
+    ]
+  },
+  {
+    "name": "on net",
+    "logo": {
+      "uid": "blt743f27d259480c78",
+      "created_at": "2020-05-12T09:37:26.549Z",
+      "updated_at": "2020-05-12T09:37:26.549Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "196426",
+      "tags": [],
+      "app_user_object_uid": "blt7506d2145bfe9d3b",
+      "filename": "screencapture-raweng-atlassian-net-secure-Dashboard-jspa-2020-04-24-19_26_23.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt108e4d97eb24f97e/uploads/5eba6e5612baa0188d084ae3/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "yctuiyvuo;",
+    "uid": "blt108e4d97eb24f97e",
+    "partner_configurations": [
+      {
+        "name_id": "rctvuyibu",
+        "published": false,
+        "partner_uid": "blt108e4d97eb24f97e",
+        "uid": "blt5296b85a2a481786"
+      },
+      {
+        "name_id": "gcjkhvljbkn/",
+        "published": false,
+        "partner_uid": "blt108e4d97eb24f97e",
+        "uid": "bltccfe64b0d3984ab1"
+      }
+    ]
+  },
+  {
+    "name": "GoogleOauthTest",
+    "logo": {
+      "uid": "blt087aa68657bca188",
+      "created_at": "2019-11-25T11:54:26.443Z",
+      "updated_at": "2019-11-25T11:54:26.443Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/jpeg",
+      "file_size": "12553",
+      "tags": [],
+      "app_user_object_uid": "blt60b03827527ee8e3",
+      "filename": "bltc1db302202c962fd-cjBVcCJG_400x400.jpg",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt8665eb44609aaa15/uploads/5ddbc0f2c35a690e80f627e9/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "GoogleOauthTest",
+    "uid": "blt8665eb44609aaa15",
+    "partner_configurations": [
+      {
+        "name_id": "2GoogelOAuthTest",
+        "published": true,
+        "partner_uid": "blt8665eb44609aaa15",
+        "uid": "blt9abc7c50a93f9151"
+      },
+      {
+        "name_id": "GoogleOauthTest",
+        "published": true,
+        "partner_uid": "blt8665eb44609aaa15",
+        "uid": "bltd3cfa45c77179325"
+      }
+    ]
+  },
+  {
+    "name": "AIS UAT",
+    "logo": {
+      "uid": "blt425b09d3ada85432",
+      "created_at": "2017-10-13T06:35:46.161Z",
+      "updated_at": "2017-10-13T06:35:46.161Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "5604",
+      "tags": [],
+      "app_user_object_uid": null,
+      "filename": "ais-logo-300x100.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/bltac47fb68481d5c62/uploads/59e05ec22b07eded1af282fd/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "AIS Thailand1",
+    "uid": "bltac47fb68481d5c62",
+    "partner_configurations": [
+      {
+        "partner_uid": "bltac47fb68481d5c62",
+        "published": true,
+        "uid": "bltace48594d0122b2c",
+        "name_id": "ais_qmp"
+      }
+    ]
+  },
+  {
+    "name": "w12er",
+    "logo": {
+      "uid": "bltc00e954e1fde524e",
+      "created_at": "2020-12-16T09:02:11.475Z",
+      "updated_at": "2020-12-16T09:02:11.475Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "715232",
+      "tags": [],
+      "app_user_object_uid": "bltaef247f7088fbe75",
+      "filename": "Screenshot 2020-12-14 at 1.22.35 PM.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt13e9d072fc98a07f/uploads/5fd9cd1372af074da80e932b/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "w12er",
+    "uid": "blt13e9d072fc98a07f",
+    "partner_configurations": [
+      {
+        "name_id": "nm,",
+        "published": false,
+        "partner_uid": "blt13e9d072fc98a07f",
+        "uid": "blt8401ba729a320423"
+      }
+    ]
+  },
+  {
+    "name": "UOL",
+    "logo": {
+      "uid": "bltf43d206316a9fdd6",
+      "created_at": "2020-12-10T12:58:06.493Z",
+      "updated_at": "2020-12-10T12:58:06.493Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/jpeg",
+      "file_size": "10469",
+      "tags": [],
+      "app_user_object_uid": "blt03de00f7f1bcd5d4",
+      "filename": "UOL.jpg",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt47162a3936341363/uploads/5fd21b5e72af074da80e35b9/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "uol",
+    "uid": "blt47162a3936341363",
+    "partner_configurations": [
+      {
+        "name_id": "uol",
+        "published": true,
+        "partner_uid": "blt47162a3936341363",
+        "uid": "bltb001269cd7887a10"
+      }
+    ]
+  },
+  {
+    "name": "[Testing F1] MOCK OAuth Partner F1",
+    "logo": {
+      "uid": "bltf864f9bf7fb3896f",
+      "created_at": "2020-12-09T17:44:31.540Z",
+      "updated_at": "2020-12-09T17:44:31.540Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "1697",
+      "tags": [],
+      "app_user_object_uid": "blt60b03827527ee8e3",
+      "filename": "image.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt680d37961eacc221/uploads/5fd10cff7ef7d268e6f6d53c/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "MOCK OAuth Partner..",
+    "uid": "blt680d37961eacc221",
+    "partner_configurations": [
+      {
+        "partner_uid": "blt680d37961eacc221",
+        "name_id": "oauth_testing_f1",
+        "published": true,
+        "uid": "blt1b2d21cce585a7e9"
+      },
+      {
+        "name_id": "sess_based_oauth_f1",
+        "published": false,
+        "partner_uid": "blt680d37961eacc221",
+        "uid": "blt639cbb4493da7611"
+      },
+      {
+        "name_id": "error_oauth_f1",
+        "published": false,
+        "partner_uid": "blt680d37961eacc221",
+        "uid": "bltce3b4239d2a7ddad"
+      },
+      {
+        "name_id": "saml_testing_f1",
+        "published": false,
+        "partner_uid": "blt680d37961eacc221",
+        "uid": "bltd6e90aeaa38a619f"
+      }
+    ]
+  },
+  {
+    "name": "internal-example",
+    "logo": {
+      "uid": "blt72fe1f78d71eb8c3",
+      "created_at": "2020-12-09T12:05:57.483Z",
+      "updated_at": "2020-12-09T12:05:57.483Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/jpeg",
+      "file_size": "24483",
+      "tags": [],
+      "app_user_object_uid": "blt81d51536784ecf83",
+      "filename": "NBA-logo.jpg",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt0544a1fecc3de6c8/uploads/5fd0bda57ef7d268e6f6d484/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "dsfaas",
+    "uid": "blt0544a1fecc3de6c8",
+    "partner_configurations": [
+      {
+        "name_id": "int_p",
+        "published": false,
+        "partner_uid": "blt0544a1fecc3de6c8",
+        "uid": "bltba764e2f137ea2be"
+      }
+    ]
+  },
+  {
+    "name": "ChaitaliQA",
+    "logo": {
+      "uid": "blt03292a0fe82f6b96",
+      "created_at": "2020-11-02T13:12:55.146Z",
+      "updated_at": "2020-11-02T13:12:55.146Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "181170",
+      "tags": [],
+      "app_user_object_uid": "blte39418808f12bcd5",
+      "filename": "2.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/bltd962a5eccf55c5c5/uploads/5fa005d778e5cf5b3862d549/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "QA Testing",
+    "uid": "bltd962a5eccf55c5c5",
+    "partner_configurations": [
+      {
+        "name_id": "TestConfig",
+        "published": true,
+        "partner_uid": "bltd962a5eccf55c5c5",
+        "uid": "blt487b1fdcdbc86c98"
+      }
+    ]
+  },
+  {
+    "name": "Cosmote",
+    "logo": {
+      "uid": "blt254d812831c56ada",
+      "created_at": "2020-11-30T06:30:58.125Z",
+      "updated_at": "2020-11-30T06:30:58.125Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/jpeg",
+      "file_size": "4137",
+      "tags": [],
+      "app_user_object_uid": "blt03de00f7f1bcd5d4",
+      "filename": "COSMOTE.jpeg",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt049b5f57b60a5a64/uploads/5fc491a28ad89c0f3a0d7c2c/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "Cosmote",
+    "uid": "blt049b5f57b60a5a64",
+    "partner_configurations": [
+      {
+        "name_id": "cosmote",
+        "published": true,
+        "partner_uid": "blt049b5f57b60a5a64",
+        "uid": "blt31a62c80f9bfa51c"
+      }
+    ]
+  },
+  {
+    "name": "testingbanner",
+    "logo": {
+      "uid": "blt37a21897b40dbe1e",
+      "created_at": "2020-11-19T10:20:38.651Z",
+      "updated_at": "2020-11-19T10:20:38.651Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "199045",
+      "tags": [],
+      "app_user_object_uid": "blt7506d2145bfe9d3b",
+      "filename": "screencapture-raweng-atlassian-net-secure-Dashboard-jspa-2020-11-12-20_26_54.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt9d4ed39f8c678149/uploads/5fb646f6d275a30ed7392ab1/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "testingbanner",
+    "uid": "blt9d4ed39f8c678149",
+    "partner_configurations": [
+      {
+        "name_id": "testingbanner",
+        "published": true,
+        "partner_uid": "blt9d4ed39f8c678149",
+        "uid": "blta3dec6d1599edabf"
+      },
+      {
+        "name_id": "WEDW",
+        "published": false,
+        "partner_uid": "blt9d4ed39f8c678149",
+        "uid": "blt83644f2fa7c39974"
+      },
+      {
+        "name_id": "on net",
+        "published": false,
+        "partner_uid": "blt9d4ed39f8c678149",
+        "uid": "blt239011ee6dfd778e"
+      },
+      {
+        "name_id": "Testing banner only",
+        "published": false,
+        "partner_uid": "blt9d4ed39f8c678149",
+        "uid": "bltce660a581a86700c"
+      },
+      {
+        "name_id": "wfer",
+        "published": false,
+        "partner_uid": "blt9d4ed39f8c678149",
+        "uid": "blt4d906874f7a891f3"
+      }
+    ]
+  },
+  {
+    "name": "VIVO Fixa",
+    "logo": {
+      "uid": "blt8c85646d0ef4cb90",
+      "created_at": "2018-02-15T11:13:01.153Z",
+      "updated_at": "2018-02-15T11:13:01.153Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "3040",
+      "tags": [],
+      "app_user_object_uid": "blt2f888c88e54a93a5",
+      "filename": "logo-vivo-branco.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blte8e94ed237d4faa2/uploads/5a856b3d621bf6cd28af068b/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "",
+    "uid": "blte8e94ed237d4faa2",
+    "partner_configurations": [
+      {
+        "partner_uid": "blte8e94ed237d4faa2",
+        "published": true,
+        "uid": "bltdb12829f1f63b389",
+        "name_id": "vivofixa_bgr"
+      }
+    ]
+  },
+  {
+    "name": "Banneronly_testing",
+    "logo": {
+      "uid": "blt439ca1b48116c3dc",
+      "created_at": "2020-11-27T05:31:31.250Z",
+      "updated_at": "2020-11-27T05:31:31.250Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "application/pdf",
+      "file_size": "3028",
+      "tags": [],
+      "app_user_object_uid": "blt7506d2145bfe9d3b",
+      "filename": "sample.pdf",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blteaf82bd2b001d0b2/uploads/5fc08f332003160f4c0d5d91/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "Banneronly_testing",
+    "uid": "blteaf82bd2b001d0b2",
+    "partner_configurations": [
+      {
+        "name_id": "gjhlk",
+        "published": false,
+        "partner_uid": "blteaf82bd2b001d0b2",
+        "uid": "blt3ada1139a1ce5a27"
+      },
+      {
+        "name_id": "banner_1",
+        "published": false,
+        "partner_uid": "blteaf82bd2b001d0b2",
+        "uid": "blt384d857791068f88"
+      },
+      {
+        "name_id": "banner_2",
+        "published": false,
+        "partner_uid": "blteaf82bd2b001d0b2",
+        "uid": "blt215431c4f81decfe"
+      }
+    ]
+  },
+  {
+    "name": "sxd",
+    "logo": {
+      "uid": "bltec2d87e32fc79496",
+      "created_at": "2020-11-24T14:38:13.833Z",
+      "updated_at": "2020-11-24T14:38:13.833Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "1697",
+      "tags": [],
+      "app_user_object_uid": "blt7506d2145bfe9d3b",
+      "filename": "image (11) (1).png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/bltbf0a7b59aeb528a0/uploads/5fbd1ad57a4a0d0f14f27c19/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "",
+    "uid": "bltbf0a7b59aeb528a0",
+    "partner_configurations": [
+      {
+        "name_id": "ZXjhk",
+        "published": true,
+        "partner_uid": "bltbf0a7b59aeb528a0",
+        "uid": "bltd0e7d06c272b18d0"
+      }
+    ]
+  },
+  {
+    "name": "smita_on network",
+    "logo": {
+      "uid": "blt86e0b10b12799ed1",
+      "created_at": "2020-11-23T14:55:41.944Z",
+      "updated_at": "2020-11-23T14:55:41.944Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "288284",
+      "tags": [],
+      "app_user_object_uid": "bltaef247f7088fbe75",
+      "filename": "IMG_0063.PNG",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt6d3dc3261cf1cde6/uploads/5fbbcd6d2f5b0d7733df5ed7/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "21312323",
+    "uid": "blt6d3dc3261cf1cde6",
+    "partner_configurations": [
+      {
+        "name_id": "Banner Only",
+        "published": true,
+        "partner_uid": "blt6d3dc3261cf1cde6",
+        "uid": "bltdf9b81a37cb9120e"
+      },
+      {
+        "name_id": "smita_on_netwok_logi",
+        "published": false,
+        "partner_uid": "blt6d3dc3261cf1cde6",
+        "uid": "bltab14eb82214d8bb0"
+      }
+    ]
+  },
+  {
+    "name": "banners test",
+    "logo": {
+      "uid": "blt2688619a75078127",
+      "created_at": "2020-11-23T06:34:02.910Z",
+      "updated_at": "2020-11-23T06:34:02.910Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "560149",
+      "tags": [],
+      "app_user_object_uid": "bltaef247f7088fbe75",
+      "filename": "Screenshot 2020-10-18 at 8.49.58 PM.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/bltea0df560af93d7ce/uploads/5fbb57da2f5b0d7733df5c71/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "banners test",
+    "uid": "bltea0df560af93d7ce",
+    "partner_configurations": [
+      {
+        "name_id": "testbanner",
+        "published": false,
+        "partner_uid": "bltea0df560af93d7ce",
+        "uid": "blta403bd6620f90cb4"
+      }
+    ]
+  },
+  {
+    "name": "abc",
+    "logo": {
+      "uid": "blt7c42601bf2a40e27",
+      "created_at": "2020-11-03T14:22:21.130Z",
+      "updated_at": "2020-11-03T14:22:21.130Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "52908",
+      "tags": [],
+      "app_user_object_uid": "blt60b03827527ee8e3",
+      "filename": "Screenshot 2020-10-29 at 5.34.58 PM.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt33cd4aad3f7b6584/uploads/5fa1679db5fee40d7b93f87f/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "abc",
+    "uid": "blt33cd4aad3f7b6584",
+    "partner_configurations": [
+      {
+        "name_id": "sbc",
+        "published": false,
+        "partner_uid": "blt33cd4aad3f7b6584",
+        "uid": "blt6bcee39d802515d1"
+      }
+    ]
+  },
+  {
+    "name": "TestQA Bhavesh",
+    "logo": {
+      "uid": "blte90e6e334e231313",
+      "created_at": "2020-12-02T12:53:14.533Z",
+      "updated_at": "2020-12-02T12:53:14.533Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/jpeg",
+      "file_size": "102117",
+      "tags": [],
+      "app_user_object_uid": "bltaab30f07699fab20",
+      "filename": "file_example_JPG_100kB.JPG",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/bltaee7373c50c56068/uploads/5fc78e3acca3643ababd33b5/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "Test QA Dummy Description",
+    "uid": "bltaee7373c50c56068",
+    "partner_configurations": [
+      {
+        "name_id": "TestQA Config",
+        "published": false,
+        "partner_uid": "bltaee7373c50c56068",
+        "uid": "blt42ef06f884390496"
+      }
+    ]
+  },
+  {
+    "name": "TestApi",
+    "logo": {
+      "uid": "blt8e9da35a75a45531",
+      "created_at": "2019-10-04T05:32:04.089Z",
+      "updated_at": "2019-10-04T05:32:04.089Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "32026",
+      "tags": [],
+      "app_user_object_uid": "blt03de00f7f1bcd5d4",
+      "filename": "logo-placeholder.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blteb397eedb81a4ef3/uploads/5d96d954db77327574efe87a/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "TestApi",
+    "uid": "blteb397eedb81a4ef3",
+    "partner_configurations": [
+      {
+        "name_id": "TestConf2",
+        "published": false,
+        "partner_uid": "blteb397eedb81a4ef3",
+        "uid": "blt35258d021cb0d506"
+      },
+      {
+        "name_id": "testApiConf",
+        "published": false,
+        "partner_uid": "blteb397eedb81a4ef3",
+        "uid": "blt727bde20092530e7"
+      }
+    ]
+  },
+  {
+    "name": "Vasant Testing Partner",
+    "logo": {
+      "uid": "blte68a0065fdb7eab1",
+      "created_at": "2020-03-30T06:29:34.439Z",
+      "updated_at": "2020-03-30T06:29:34.439Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/svg+xml",
+      "file_size": "2888",
+      "tags": [],
+      "app_user_object_uid": "bltdddf3f6c75eeb3a6",
+      "filename": "dollar-exchange.svg",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt4a60b9a5c8a75132/uploads/5e8191ce1c27812069d43add/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "asc",
+    "uid": "blt4a60b9a5c8a75132",
+    "partner_configurations": [
+      {
+        "name_id": "vasant",
+        "published": false,
+        "partner_uid": "blt4a60b9a5c8a75132",
+        "uid": "blt42b439dfb072a300"
+      },
+      {
+        "name_id": "a",
+        "published": false,
+        "partner_uid": "blt4a60b9a5c8a75132",
+        "uid": "bltc25df9504289507a"
+      },
+      {
+        "name_id": "final",
+        "published": false,
+        "partner_uid": "blt4a60b9a5c8a75132",
+        "uid": "blt43310177a5d9c544"
+      }
+    ]
+  },
+  {
+    "name": "MOCK Session Login Partner",
+    "logo": {
+      "uid": "blt647e9d5ede216483",
+      "created_at": "2020-11-03T13:15:49.040Z",
+      "updated_at": "2020-11-03T13:15:49.040Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/jpeg",
+      "file_size": "12553",
+      "tags": [],
+      "app_user_object_uid": "blt7506d2145bfe9d3b",
+      "filename": "blt82644fe37b790764-blta6d90a85f6f9d72d-cjBVcCJG_400x400.jpg",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt6a8abb81781830b2/uploads/5fa15805732f136fbe4bdb63/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "MOCK Traditional Login Partner made for internal testing the default traditional login Partner.",
+    "uid": "blt6a8abb81781830b2",
+    "partner_configurations": [
+      {
+        "partner_uid": "blt6a8abb81781830b2",
+        "name_id": "session_partner",
+        "published": true,
+        "uid": "blt0080655bbf28586a"
+      }
+    ]
+  },
+  {
+    "name": "GoogleOauth_Se",
+    "logo": {
+      "uid": "bltb0ac6b1890b754b8",
+      "created_at": "2020-11-03T09:21:29.804Z",
+      "updated_at": "2020-11-03T09:21:29.804Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/jpeg",
+      "file_size": "12553",
+      "tags": [],
+      "app_user_object_uid": "blt60b03827527ee8e3",
+      "filename": "bltc1db302202c962fd-cjBVcCJG_400x400.jpg",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/bltee6b5e44d9459dec/uploads/5fa121193c7b8327f244878e/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "GoogleOauthTest",
+    "uid": "bltee6b5e44d9459dec",
+    "partner_configurations": [
+      {
+        "name_id": "GoogleOauth_Se2",
+        "published": false,
+        "partner_uid": "bltee6b5e44d9459dec",
+        "uid": "blt529d43aaf3868cb8"
+      },
+      {
+        "name_id": "GoogleOauth_Se",
+        "published": false,
+        "partner_uid": "bltee6b5e44d9459dec",
+        "uid": "blt75ef0a651dd87979"
+      }
+    ]
+  },
+  {
+    "name": "Inaleo Testing",
+    "logo": {
+      "uid": "bltee88304656411059",
+      "created_at": "2020-11-02T10:44:05.772Z",
+      "updated_at": "2020-11-02T10:44:05.772Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/jpeg",
+      "file_size": "26050",
+      "tags": [],
+      "app_user_object_uid": "bltb82e9479d8a90a4b",
+      "filename": "IMG-20200714-WA0002.jpg",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/blt5ac36b36c1a84e48/uploads/5f9fe2f58b31f54b0dee6ef9/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "Testing",
+    "uid": "blt5ac36b36c1a84e48",
+    "partner_configurations": [
+      {
+        "name_id": "Inaleo Testing",
+        "published": true,
+        "partner_uid": "blt5ac36b36c1a84e48",
+        "uid": "blt859d14145cd83912"
+      }
+    ]
+  },
+  {
+    "name": "demo_1",
+    "logo": {
+      "uid": "blt8a49cdf89176444f",
+      "created_at": "2020-10-30T06:18:41.576Z",
+      "updated_at": "2020-10-30T06:18:41.576Z",
+      "created_by": null,
+      "updated_by": null,
+      "content_type": "image/png",
+      "file_size": "203938",
+      "tags": [],
+      "app_user_object_uid": "blt7506d2145bfe9d3b",
+      "filename": "screencapture-raweng-atlassian-net-secure-Dashboard-jspa-2020-10-29-21_01_48.png",
+      "url": "https://dev-backend-api.opin.media/v1/classes/partner/objects/bltd64b022c95bfc7de/uploads/5f9bb04153da6e0ddbc311d2/application_api_key/blt3e0ac5fb889c3f40",
+      "ACL": {}
+    },
+    "description": "This is a demo partner",
+    "uid": "bltd64b022c95bfc7de",
+    "partner_configurations": [
+      {
+        "name_id": "demo_config",
+        "published": false,
+        "partner_uid": "bltd64b022c95bfc7de",
+        "uid": "blt39617ab839dd5069"
+      }
+    ]
+  }
+]

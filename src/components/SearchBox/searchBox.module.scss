@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  .icon-button {
+    background-color: white;
+    border: 2px solid white;
+  }
+  .icon {
+    margin: 9px;
+    font-size: 19px;
+    background-color: white;
+    border: 2px solid white;
+  }
+}
+
+.left {
+  flex-direction: row-reverse;
+}
+.right {
+  flex-direction: row;
+}
+
+.default {
+  background-color: white;
+}
+
+.search-field {
+  height: 100%;
+  width: 100%;
+
+  outline: none;
+  font-size: inherit;
+  padding: 10px;
+  text-align: initial;
+  background-color: white;
+  border: 2px solid white;
+}

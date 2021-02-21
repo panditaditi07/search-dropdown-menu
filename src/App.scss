@@ -1,0 +1,15 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 100px auto;
+  .heading {
+    font-family: "Pacifico", cursive;
+    font-size: 35px;
+    color: #b9b9b9;
+  }
+}
+.searchInput {
+  background-color: white;
+}
