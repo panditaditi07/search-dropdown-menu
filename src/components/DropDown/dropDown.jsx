@@ -173,25 +173,25 @@ class DropDown extends Component {
    */
 
   DropDownToggle = () => {
-    const { OptionList, resultList } = this.state;
-    if (!OptionList.length) {
-      this.toggle();
-    } else if (this.state.hideList === true) {
-      if (OptionList.length--) {
-        this.setState({ showList: false });
-        console.log("Running");
-      } else {
-        this.toggle();
-        console.log("Running else part");
-      }
-    } else if (this.state.hideList === false && OptionList.length) {
-      this.setState({ showList: true });
-      console.log("Running 2 ");
-    } else if (
-      this.state.hideList === false &&
+    const { OptionList, resultList, hideList, showList } = this.state;
+    this.toggle();
+    console.log(showList === false);
+    if (
+      (hideList === true || hideList === false) &&
       OptionList.length &&
-      resultList.length
+      showList === false
     ) {
+      this.setState({ showList: false });
+
+      console.log("Running 1");
+    } else if (
+      (hideList === false || hideList === true) &&
+      OptionList.length &&
+      showList === true
+    ) {
+      this.setState({ showList: true });
+      console.log("Running 1");
+    } else if (hideList === false && OptionList.length && resultList.length) {
       this.setState({ showList: true });
     }
   };
@@ -203,7 +203,7 @@ class DropDown extends Component {
     const result = this.state.resultList.some(
       (options) => this.state.searchInput !== options[showKey]
     );
-    console.log(result);
+
     if (result === false && !this.state.searchInput.length) {
       return true;
     }
@@ -217,7 +217,6 @@ class DropDown extends Component {
    * returns dropdown list
    */
   render() {
-    console.log(this.state.resultList);
     const { showList, resultList, OptionList, selectAll } = this.state;
     const {
       placeholder,
