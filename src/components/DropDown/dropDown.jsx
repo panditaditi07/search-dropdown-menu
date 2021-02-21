@@ -135,8 +135,9 @@ class DropDown extends Component {
     ) {
       this.toggle();
 
-      this.setState({ hideList: true });
+      this.setState({ hideList: !this.state.hideList });
     }
+
     if (multipleSelect && OptionList.length) {
       getList(OptionList);
     }
@@ -175,8 +176,14 @@ class DropDown extends Component {
     const { OptionList, resultList } = this.state;
     if (!OptionList.length) {
       this.toggle();
-    } else if (this.state.hideList === true && OptionList.length) {
-      this.setState({ showList: false });
+    } else if (this.state.hideList === true) {
+      if (OptionList.length--) {
+        this.setState({ showList: false });
+      } else {
+        this.toggle();
+      }
+    } else if (this.state.hideList === false && OptionList.length) {
+      this.setState({ showList: true });
     } else if (
       this.state.hideList === false &&
       OptionList.length &&
