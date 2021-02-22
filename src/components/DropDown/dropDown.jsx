@@ -18,7 +18,6 @@ class DropDown extends Component {
     OptionList: [],
     showList: false,
     selectAll: false,
-    hideList: false,
     searchInput: "",
   };
 
@@ -133,8 +132,6 @@ class DropDown extends Component {
       !event.currentTarget.contains(event.relatedTarget)
     ) {
       this.toggle();
-
-      this.setState({ hideList: !this.state.hideList });
     }
 
     if (multipleSelect && OptionList.length) {
@@ -172,22 +169,14 @@ class DropDown extends Component {
    */
 
   DropDownToggle = () => {
-    const { OptionList, resultList, hideList, showList } = this.state;
+    const { OptionList, resultList, showList } = this.state;
     this.toggle();
 
-    if (
-      (hideList === true || hideList === false) &&
-      OptionList.length &&
-      showList === false
-    ) {
+    if (OptionList.length && showList === false) {
       this.setState({ showList: false });
-    } else if (
-      (hideList === false || hideList === true) &&
-      OptionList.length &&
-      showList === true
-    ) {
+    } else if (OptionList.length && showList === true) {
       this.setState({ showList: true });
-    } else if (hideList === false && OptionList.length && resultList.length) {
+    } else if (OptionList.length && resultList.length && showList === true) {
       this.setState({ showList: true });
     }
   };

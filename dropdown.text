@@ -263,3 +263,46 @@
   })}
 </div>; */
 }
+
+
+
+
+// DropDownToggle = () => {
+  //   const { OptionList, resultList, hideList, showList } = this.state;
+  //   this.toggle();
+
+  //   if (
+  //     (hideList === true || hideList === false) &&
+  //     OptionList.length &&
+  //     showList === false
+  //   ) {
+  //     this.setState({ showList: false });
+  //   } else if (
+  //     (hideList === false || hideList === true) &&
+  //     OptionList.length &&
+  //     showList === true
+  //   ) {
+  //     this.setState({ showList: true });
+  //   } else if (hideList === false && OptionList.length && resultList.length) {
+  //     this.setState({ showList: true });
+  //   }
+  // };
+
+
+   // hideList = (event) => {
+  //   const { multipleSelect, getList } = this.props;
+  //   const { OptionList } = this.state;
+  //   if (
+  //     event.currentTarget.id === "dropdown-div" &&
+  //     !event.currentTarget.contains(event.relatedTarget)
+  //   ) {
+  //     this.toggle();
+
+  //     this.setState({ hideList: !this.state.hideList });
+  //   }
+
+  //   if (multipleSelect && OptionList.length) {
+  //     getList(OptionList);
+  //   }
+  // };
+
