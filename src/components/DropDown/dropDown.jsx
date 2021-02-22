@@ -192,7 +192,8 @@ class DropDown extends Component {
     }
   };
   /**
-   * checks for no result
+   * checks for searched value and return no result if
+   * not present.
    */
   noResults = () => {
     const { showKey } = this.props;
@@ -395,12 +396,19 @@ DropDown.propTypes = {
   /**
    * must be array of object keys and it is an object of searchList
    */
-  searchkeys: propTypes.arrayOf(propTypes.string.isRequired),
+  searchkeys: propTypes.arrayOf(propTypes.string.isRequired).isRequired,
   /**
    * will give the result
    */
   getList: propTypes.func.isRequired,
+  /**
+   * must be boolean for multi-select
+   */
   multipleSelect: propTypes.bool,
+  /**
+   * it gives the searchInput value
+   */
+  onChange: propTypes.func.isRequired,
 };
 
 DropDown.defaultProps = {

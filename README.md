@@ -1,17 +1,17 @@
-# Dynamic SearchBox
+# Searchable DropDown Menu
 
-# This searchBox is a dynamic Search Bar component used to search Data according to the user's Input.
+# This Searchable DropDown Menu is used to search data according to the user's Input and can multi-select or deselect the list options.
 
-### SearchBox Component:
+### DropDown Component:
 
 ```js
-<SearchBox
+<DropDown
   data={searchData}
-  placeholder="Search here"
-  iconPosition="right"
-  className="searchInput"
-  searchkeys={searchkeys}
-  result={getResult}
+  getList={this.getList}
+  showKey="name"
+  multipleSelect={true}
+  placeholder="Select"
+  searchList={{ searchkeys: ["name"], placeholder: "Search" }}
 />
 ```
 
@@ -20,9 +20,9 @@
 # Props:
 
 - ### `data` - The array of objects. This prop is required.
-- ### `placeholder` - The placeholder text for the input box.
-- ### `iconPosition` - it defines the icon position. Must be left/right. Default `right`
-- ### `className` - className must string. Default `""`
-- ### `searchkeys` - The array of object keys.This prop is required.
-- ### `result` - Callback function will print the data that is searched.
-- ### `onChange` - A function which acts as a callback when the input value is changed.
+- ### `getList`- It gives the filtered array of objects of searchBox.
+- ### `showKey` - It must be a key value(string) from data which is supposed to be selected.
+- ### `placeholder` - The placeholder text for the dropdown box.
+- ### `multipleSelect`- It must be boolean. And must be true if multi-select is required.
+- ### `searchList` - It must be object and must have properties of searchBox.
+- ### `searchkeys` - The array of object keys.This prop is required.This is the searchBox property.
