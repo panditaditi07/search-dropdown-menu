@@ -20,7 +20,7 @@
 # Props:
 
 - ### `data` - The array of objects. This prop is required.
-- ### `getList`- It gives the filtered array of objects of searchBox.
+- ### `getList`- It gives the selected options from dropdown.
 - ### `showKey` - It must be a key value(string) from data which is supposed to be selected.
 - ### `placeholder` - The placeholder text for the dropdown box.
 - ### `multipleSelect`- It must be boolean. And must be true if multi-select is required.

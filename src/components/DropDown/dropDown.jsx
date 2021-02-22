@@ -140,7 +140,7 @@ class DropDown extends Component {
   };
 
   /**
-   * arrow angle is changed
+   * to toggle arrow angle
    */
   toggle = () => {
     this.setState({ showList: !this.state.showList });
@@ -281,12 +281,7 @@ class DropDown extends Component {
               className={`${styles["dropdownlist"]}`}
               onBlur={this.hideList}
             >
-              <div
-                id="searchInput"
-                className={styles["searchBar-div"]}
-                onFocus={this.onSearchFocus}
-                onBlur={this.onSearchBlur}
-              >
+              <div id="searchInput" className={styles["searchBar-div"]}>
                 <SearchBox
                   data={data}
                   result={this.getResult}
@@ -387,17 +382,13 @@ DropDown.propTypes = {
    */
   searchkeys: propTypes.arrayOf(propTypes.string.isRequired).isRequired,
   /**
-   * will give the result
+   * will give the selected options
    */
   getList: propTypes.func.isRequired,
   /**
    * must be boolean for multi-select
    */
   multipleSelect: propTypes.bool,
-  /**
-   * it gives the searchInput value
-   */
-  onChange: propTypes.func.isRequired,
 };
 
 DropDown.defaultProps = {
