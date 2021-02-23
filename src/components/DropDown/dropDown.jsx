@@ -131,7 +131,7 @@ class DropDown extends Component {
       event.currentTarget.id === "dropdown-div" &&
       !event.currentTarget.contains(event.relatedTarget)
     ) {
-      this.toggle();
+      this.setState({ showList: true });
     }
 
     if (multipleSelect && OptionList.length) {
@@ -168,16 +168,26 @@ class DropDown extends Component {
    * toggles the dropdown menu
    */
 
-  DropDownToggle = () => {
-    const { OptionList, resultList, showList } = this.state;
-    this.toggle();
+  // DropDownToggle = () => {
+  //   const { OptionList, resultList, showList } = this.state;
+  //   this.toggle();
 
-    if (OptionList.length && showList === false) {
-      this.setState({ showList: false });
-    } else if (OptionList.length && showList === true) {
-      this.setState({ showList: true });
-    } else if (OptionList.length && resultList.length && showList === true) {
-      this.setState({ showList: true });
+  //   if (OptionList.length && showList === false) {
+  //     this.setState({ showList: false });
+  //   } else if (OptionList.length && showList === true) {
+  //     this.setState({ showList: true });
+  //   } else if (OptionList.length && resultList.length && showList === true) {
+  //     this.setState({ showList: true });
+  //   }
+  // };
+
+  DropDownToggle = (event) => {
+    event.preventDefault();
+    if (event.target === event.currentTarget) {
+      this.setState({ showList: !this.state.showList });
+      return;
+    } else {
+      return;
     }
   };
   /**
@@ -380,7 +390,7 @@ DropDown.propTypes = {
   /**
    * must be array of object keys and it is an object of searchList
    */
-  searchkeys: propTypes.arrayOf(propTypes.string.isRequired).isRequired,
+  searchkeys: propTypes.arrayOf(propTypes.string.isRequired),
   /**
    * will give the selected options
    */

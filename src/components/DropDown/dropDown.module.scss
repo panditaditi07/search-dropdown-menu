@@ -1,3 +1,27 @@
+// .main-div {
+//   display: flex;
+//   justify-content: center;
+//   align-items: center;
+//   flex-direction: row;
+//   .toggle-icon {
+//     background: white;
+//     padding: 12px;
+//     height: 46px;
+//   }
+// }
+.dropdown-button-ex {
+  // border: 1px solid red;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 700px;
+  height: 30px;
+  // border: 2px solid white;
+
+  outline: none !important;
+  cursor: pointer;
+  background-color: white;
+}
 .dropdown-div {
   display: flex;
   justify-content: center;
