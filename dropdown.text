@@ -306,3 +306,69 @@
   //   }
   // };
 
+
+// DropDownToggle = () => {
+  //   const { OptionList, resultList, showList } = this.state;
+  //   this.toggle();
+
+  //   if (OptionList.length && showList === false) {
+  //     this.setState({ showList: false });
+  //   } else if (OptionList.length && showList === true) {
+  //     this.setState({ showList: true });
+  //   } else if (OptionList.length && resultList.length && showList === true) {
+  //     this.setState({ showList: true });
+  //   }
+  // };
+
+
+
+// removeOption = (option) => {
+  //   const { OptionList } = this.state;
+  //   const { showKey, getList } = this.props;
+  //   let result = OptionList.filter((selectedoption) => {
+  //     return selectedoption[showKey] !== option[showKey];
+  //   });
+
+  //   this.setState({ OptionList: result }, () => {
+  //     getList(this.state.OptionList);
+  //   });
+
+  //   if (OptionList.length === 0 || OptionList.length - 1) {
+  //     this.setState({ selectAll: false });
+  //   }
+  // };
+
+
+
+
+   // noResults = () => {
+  //   const { showKey } = this.props;
+  //   const result = this.state.resultList.some(
+  //     (options) => this.state.searchInput !== options[showKey]
+  //   );
+
+  //   if (result === false && !this.state.searchInput.length) {
+  //     return true;
+  //   }
+  //   if (result === true) {
+  //     return true;
+  //   } else if (result === false) {
+  //     return false;
+  //   }
+  // };
+
+
+   // addToList = (option) => {
+  //   const { OptionList } = this.state;
+  //   const { multipleSelect } = this.props;
+  //   const options = [...OptionList, { ...option }];
+  //   this.setState({ OptionList: options });
+
+  //   if (!multipleSelect) {
+  //     this.setState({ OptionList: [{ ...option }] });
+
+  //     const { getList } = this.props;
+  //     getList(option);
+  //     this.toggle();
+  //   }
+  // };

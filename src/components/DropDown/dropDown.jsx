@@ -53,18 +53,36 @@ class DropDown extends Component {
    * @param {option} option
    * removes selected options
    */
+  // removeOption = (option) => {
+  //   const { OptionList } = this.state;
+  //   const { showKey, getList } = this.props;
+  //   let result = OptionList.filter((selectedoption) => {
+  //     return selectedoption[showKey] !== option[showKey];
+  //   });
+
+  //   this.setState({ OptionList: result }, () => {
+  //     getList(this.state.OptionList);
+  //   });
+
+  //   if (result.length === 0 || result.length - 1) {
+  //     this.setState({ selectAll: false });
+  //   }
+  // };
+
   removeOption = (option) => {
     const { OptionList } = this.state;
     const { showKey, getList } = this.props;
-    let result = OptionList.filter((selectedoption) => {
-      return selectedoption[showKey] !== option[showKey];
+
+    let getIndex = OptionList.findIndex((selectedoption) => {
+      return selectedoption[showKey] === option[showKey];
     });
 
-    this.setState({ OptionList: result }, () => {
+    OptionList.splice(getIndex, 1);
+    this.setState({ OptionList: OptionList }, () => {
       getList(this.state.OptionList);
     });
 
-    if (result.length === 0 || result.length - 1) {
+    if (OptionList.length === 0 || OptionList.length - 1) {
       this.setState({ selectAll: false });
     }
   };
@@ -92,10 +110,10 @@ class DropDown extends Component {
       return options;
     });
     this.setState({ OptionList: result, selectAll: !selectAll }, () => {
-      if (selectAll === true) {
-        this.setState({ OptionList: [] });
-      } else {
+      if (this.state.selectAll) {
         this.setState({ OptionList: result });
+      } else {
+        this.setState({ OptionList: [] });
       }
     });
   };
@@ -105,18 +123,37 @@ class DropDown extends Component {
    * @param {option}
    * stores array of Objects of the selected option
    */
+  // addToList = (option) => {
+  //   const { OptionList } = this.state;
+  //   const { multipleSelect } = this.props;
+  //   const options = [...OptionList, { ...option }];
+  //   this.setState({ OptionList: options });
+
+  //   if (!multipleSelect) {
+  //     this.setState({ OptionList: [{ ...option }] });
+
+  //     const { getList } = this.props;
+  //     getList(option);
+  //     this.toggle();
+  //   }
+  // };
+
   addToList = (option) => {
     const { OptionList } = this.state;
-    const { multipleSelect } = this.props;
+    const { multipleSelect, data } = this.props;
     const options = [...OptionList, { ...option }];
-    this.setState({ OptionList: options });
 
     if (!multipleSelect) {
       this.setState({ OptionList: [{ ...option }] });
-
       const { getList } = this.props;
       getList(option);
       this.toggle();
+    } else {
+      this.setState({ OptionList: options }, () => {
+        if (OptionList.length + 1 === data.length) {
+          this.setState({ selectAll: true });
+        }
+      });
     }
   };
   /**
@@ -131,7 +168,7 @@ class DropDown extends Component {
       event.currentTarget.id === "dropdown-div" &&
       !event.currentTarget.contains(event.relatedTarget)
     ) {
-      this.setState({ showList: true });
+      this.setState({ showList: false });
     }
 
     if (multipleSelect && OptionList.length) {
@@ -182,7 +219,6 @@ class DropDown extends Component {
   // };
 
   DropDownToggle = (event) => {
-    event.preventDefault();
     if (event.target === event.currentTarget) {
       this.setState({ showList: !this.state.showList });
       return;
@@ -194,19 +230,26 @@ class DropDown extends Component {
    * checks for searched value and return no result if
    * not present.
    */
-  noResults = () => {
-    const { showKey } = this.props;
-    const result = this.state.resultList.some(
-      (options) => this.state.searchInput !== options[showKey]
-    );
+  // noResults = () => {
+  //   const { showKey } = this.props;
+  //   const result = this.state.resultList.some(
+  //     (options) => this.state.searchInput !== options[showKey]
+  //   );
 
-    if (result === false && !this.state.searchInput.length) {
-      return true;
-    }
-    if (result === true) {
-      return true;
-    } else if (result === false) {
+  //   if (result === false && !this.state.searchInput.length) {
+  //     return true;
+  //   }
+  //   if (result === true) {
+  //     return true;
+  //   } else if (result === false) {
+  //     return false;
+  //   }
+  // };
+  isResults = () => {
+    if (!this.state.resultList.length && this.state.searchInput.length) {
       return false;
+    } else {
+      return true;
     }
   };
   /**
@@ -266,6 +309,7 @@ class DropDown extends Component {
                 <>{placeholder}</>
               )}
             </div>
+
             <div className={styles["icons"]}>
               {OptionList.length ? (
                 <FontAwesomeIcon
@@ -302,7 +346,7 @@ class DropDown extends Component {
                 />
               </div>
 
-              {this.noResults() ? (
+              {this.isResults() ? (
                 <div className={styles["allListDiv"]}>
                   {multipleSelect && this.isAllSelected() ? (
                     <div
