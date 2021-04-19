@@ -94,7 +94,7 @@ describe("Dropdown Component", () => {
     component.instance().getResult(properties.result);
     expect(component.state("resultList").length).toEqual(1);
   });
-  it(" should add to the list - function test", () => {
+  it("should add to the list - function test", () => {
     const properties1 = { ...properties, option: { name: "Aditi" } };
     const component = shallow(<DropDown {...properties1} />);
     component.instance().addToList(properties1.option);
@@ -135,7 +135,7 @@ describe("Multiple Select DropDown Component", () => {
     DropdownToggle(component);
     expect(component.state("showList")).toEqual(true);
   });
-  it("should not toggle the dropdown ", () => {
+  it("should not toggle the dropdown", () => {
     const component = shallow(<DropDown {...properties} />);
     component
       .find(`[data-test='${"dropdown-button"}']`)
@@ -186,7 +186,7 @@ describe("Multiple Select DropDown Component", () => {
       .simulate("click");
     expect(component.state("OptionList").length).toBe(3);
   });
-  it("should deselect option and check for square icon ", () => {
+  it("should deselect option and check for square icon", () => {
     const component = shallow(<DropDown {...properties} />);
     DropdownToggle(component);
     simulateFuncList(component);
@@ -197,7 +197,7 @@ describe("Multiple Select DropDown Component", () => {
       "square"
     );
   });
-  it("should select the option ,check for selected className and check for check-square icon ", () => {
+  it("should select the option ,check for selected className and check for check-square icon", () => {
     const component = shallow(<DropDown {...properties} />);
     DropdownToggle(component);
     simulateFuncList(component);

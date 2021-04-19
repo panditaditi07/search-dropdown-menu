@@ -7,6 +7,7 @@ import propTypes from "prop-types";
 class SearchBox extends Component {
   state = {
     searchField: "",
+    filteredResult: [],
   };
   componentDidUpdate = (prevProps, prevState) => {
     if (prevState.searchField !== this.state.searchField) this.searchKeys();
@@ -41,7 +42,8 @@ class SearchBox extends Component {
     });
 
     console.log(result);
-    this.props.result(result);
+    this.setState({ filteredResult: result });
+    this.props.result([...result]);
   };
   render() {
     /**
@@ -53,6 +55,7 @@ class SearchBox extends Component {
     return (
       <>
         <div
+          data-testid="searchBox"
           className={`${styles["container"]} ${styles[iconPosition]} ${
             className ? className : styles["default"]
           } ${iconPosition}`}
@@ -62,9 +65,14 @@ class SearchBox extends Component {
             className={styles["search-field"]}
             placeholder={placeholder}
             onChange={this.handleChange}
+            data-testid="input"
           />
-          <div className={styles["icon-button"]}>
-            <FontAwesomeIcon icon={faSearch} className={styles["icon"]} />
+          <div className={styles["icon-button"]} data-testid="searchiconDiv">
+            <FontAwesomeIcon
+              data-testid="searchicon"
+              icon={faSearch}
+              className={styles["icon"]}
+            />
           </div>
         </div>
       </>
@@ -88,6 +96,15 @@ SearchBox.propTypes = {
    * must be a string
    */
   placeholder: propTypes.string,
+
+  /**
+   * must be a funct
+   */
+  onChange: propTypes.func,
+  /**
+   *must be a function which returns the result
+   */
+  result: propTypes.func.isRequired,
   /**
    * must be a string and must have value left/right
    */
