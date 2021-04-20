@@ -1,5 +1,11 @@
 import React from "react";
-import { render, cleanup, fireEvent, screen } from "@testing-library/react";
+import {
+  render,
+  cleanup,
+  fireEvent,
+  screen,
+  waitFor,
+} from "@testing-library/react";
 import "@testing-library/jest-dom";
 import Enzyme from "enzyme";
 import { shallow } from "enzyme";
@@ -115,16 +121,21 @@ it("should check for no className using screen", () => {
   // console.log(screen);
   expect(screen.getByTestId("searchBox")).toHaveClass("default");
 });
-it("should search for Data and check for the result and onchange func using screen", () => {
+it("should search for Data and check for the result and onchange func using screen", async () => {
   render(<SearchBox {...properties} />);
   const input = screen.getByTestId("input");
   fireEvent.change(input, { target: { value: "A" } });
   expect(input.value).toBe("A");
-
-  expect(properties.result).toHaveBeenCalledWith([
-    { name: "Aditi" },
-    { name: "Talib" },
-  ]);
+  await waitFor(() =>
+    expect(properties.result).toHaveBeenCalledWith([
+      { name: "Aditi" },
+      { name: "Talib" },
+    ])
+  );
+  // expect(properties.result).toHaveBeenCalledWith([
+  //   { name: "Aditi" },
+  //   { name: "Talib" },
+  // ]);
   expect(properties.onChange).toHaveBeenCalled();
 });
 it("should check for placeholder's value", () => {

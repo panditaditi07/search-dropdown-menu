@@ -43,7 +43,12 @@ class SearchBox extends Component {
 
     console.log(result);
     this.setState({ filteredResult: result });
-    this.props.result([...result]);
+    // this.props.result([...result]);
+    new Promise((resolve) => {
+      setTimeout(() => {
+        resolve(this.props.result([...result]));
+      }, 300);
+    });
   };
   render() {
     /**
